@@ -27,11 +27,6 @@ MODULES TAKEN SO FAR
 ---
 ## 2019/20: First Year
 
-*NB: no reported grades or weighting counting towards my final degree because of COVID-19.*
-
-Passed the Progression Module to advance into my second-year: 
-- CAPSTONE: "Expert Advice to the Criminal Justice System: insights from Neuroscience, Social Psychology, Speech Science and Perception Research"
-
 - Introduction to Research Methods using R (term 1 & 2)
 
 - Introduction to Language - linguistics (term 1)
@@ -49,4 +44,8 @@ Passed the Progression Module to advance into my second-year:
 - Introduction to Speech Science, speech science software (e.g. PRAAT) (term 2)
 
 
+*NB: no reported grades or weighting counting towards my final degree because of COVID-19.*
+
+Passed the Progression Module to advance into my second-year: 
+- CAPSTONE: "Expert Advice to the Criminal Justice System: insights from Neuroscience, Social Psychology, Speech Science and Perception Research"
 
