@@ -5,7 +5,6 @@ permalink: /CV/
 ---
 
 
-
 ## Education
 
 **University College London (2019-2023)**
@@ -26,7 +25,7 @@ Completion of 2 (3-month long) Nanodegrees:
 
 AI Programming with Python, Machine Learning Engineer
 
-
+---
 
 ## A bit of Experience
 
@@ -44,13 +43,14 @@ Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering
 
 **Media Officer of the UCL Neuroscience Society (March 2020 -)**
 
-
+---
 
 ## Skills
 **computational/programming**: Python, R, MATLAB (basic), Deep Learning Frameworks (PyTorch, Keras, scikit-learn, Tensorflow 1), SQL (basic), Git (Basic), speech science software (PRAAT, ELAN and others), MS Office, AWS
 
 **languages**: French (Native), English (Fluent), Turkish (Native), German (Intermediate Writing), Latin (Basic Writing)
 
+---
 
 ## Academic Awards
 
@@ -58,6 +58,7 @@ Student Achievement Prize (£50) for overall performance in my first year (2019/
 
 Nominated by the Board of Examiners for the competitive UCL Faculty Undergraduate Scholarship for Excellence (2020)
 
+---
 
 ## Extracurricular
 
