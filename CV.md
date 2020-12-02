@@ -61,10 +61,10 @@ Nominated by the Board of Examiners for the competitive UCL Faculty Undergraduat
 
 ## Extracurricular
 
-**2019/20**
 
 UCL Neuroscience Society, UCL Artificial Intelligence Society, UCL Francophone Society...
 
+**2019/20**
 German Evening Classes (B2) at the Centre for Languages and International Education (UCL) for the spring term 2020
 
 Participated in the Global Citizenship Programme (Outbreak Strand) 
