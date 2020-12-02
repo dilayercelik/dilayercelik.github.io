@@ -11,33 +11,34 @@ permalink: /CV/
 
 MSci (Hons) - Master of Science, Psychology and Language Sciences
 
-> *GRADE: Predicted First*
+- *GRADE: Predicted First*
 
 **Lycee Charles Peguy Paris 11 (High School, -2019)**
 
 French Scientific Baccalaureate, with Further Maths (Bac S Spe Maths)
 
-> *GRADE: 19.31/20*
+- *GRADE: 19.31/20*
 
 **Udacity (2020)**
 
 Completion of 2 (3-month long) Nanodegrees:
 
-AI Programming with Python, Machine Learning Engineer
+- Machine Learning Engineer (July-Sept 2020)
+- AI Programming with Python (April-June 2020)
 
 ---
 ## A bit of Experience
 
 **Undergraduate Research Assistant (Sept 2020 -)**
 
-at the UCL Language & Cognition Lab (Faculty of Brain Sciences, Dept of Experimental Psychology)
+- at the UCL Language & Cognition Lab (Faculty of Brain Sciences, Dept of Experimental Psychology)
 
 
 **Research Mentee/Intern in Natural Language Processing (Nov 2020 -)**
 
-Project: "Developing a Segmentation Pipeline to Characterise and Quantify Radiomic Features of NSCLC CT Scans"
+- Project: "Developing a Segmentation Pipeline to Characterise and Quantify Radiomic Features of NSCLC CT Scans"
 
-Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering
+- Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering
 
 
 **Media Officer of the UCL Neuroscience Society (March 2020 -)**
@@ -55,7 +56,7 @@ Responsible for managing:
 
 **Fellow at Unexplored Neuroscience (Sept 2020 -)**
 
-Unexplored Neuroscience is an 8 month-long learning community (talks, journal clubs...), from 1st of September 2020 to April 2021, dedicated to exploring the unexplored sides of Neuroscience: Cognitive Neuroscience, Systems Neuroscience, Neurophilosophy, Developmental Neuroscience, Neuroengineering, Neurology + Neuroimmunology, Computational Neuroscience, Neuroinformatics.
+- Unexplored Neuroscience is an 8 month-long learning community (talks, journal clubs...), from 1st of September 2020 to April 2021, dedicated to exploring the unexplored sides of Neuroscience: Cognitive Neuroscience, Systems Neuroscience, Neurophilosophy, Developmental Neuroscience, Neuroengineering, Neurology + Neuroimmunology, Computational Neuroscience, Neuroinformatics.
 
 ---
 ## Skills
@@ -66,9 +67,9 @@ Unexplored Neuroscience is an 8 month-long learning community (talks, journal cl
 ---
 ## Academic Awards
 
-Student Achievement Prize (£50) for overall performance in my first year (2019/20)
+- Student Achievement Prize (£50) for overall performance in my first year (2019/20)
 
-Nominated by the Board of Examiners for the competitive UCL Faculty Undergraduate Scholarship for Excellence (2020)
+- Nominated by the Board of Examiners for the competitive UCL Faculty Undergraduate Scholarship for Excellence (2020)
 
 ---
 ## Extracurricular
@@ -78,6 +79,6 @@ UCL Neuroscience Society, UCL Artificial Intelligence Society, UCL Francophone S
 
 **2019/20**
 
-German Evening Classes (B2) at the Centre for Languages and International Education (UCL) for the spring term 2020
+- German Evening Classes (B2) at the Centre for Languages and International Education (UCL) for the spring term 2020
 
-Participated in the Global Citizenship Programme (Outbreak Strand) 
+- Participated in the Global Citizenship Programme (Outbreak Strand) 
