@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I'm a second-year undergraduate student at UCL, studying Psychology and Language Sciences.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm interested in neuroscience, especially its computational and cognitive subfields, and Artificial Intelligence. 
+What excites me the most is the application of computational tools and machine learning/deep learning techniques to research in neuroscience, which I also what I aspire to pursue after my undergraduate studies.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dilay.ercelik.19@ucl.ac.ukc](mailto:dilay.ercelik.19@ucl.ac.uk)
