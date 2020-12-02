@@ -6,7 +6,6 @@ permalink: /Transcript/
 
 ## MSci (Hons) - Master of Science, Psychology and Language Sciences: 2019-2023
 
-MODULES TAKEN SO FAR
 
 ## 2020/21: Second Year
 
