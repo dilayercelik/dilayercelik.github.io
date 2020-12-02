@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: Transcript
+permalink: /Transcript/
 ---
 
 # MSci (Hons) - Master of Science, Psychology and Language Sciences: 2019-2023
