@@ -42,6 +42,21 @@ Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering
 
 **Media Officer of the UCL Neuroscience Society (March 2020 -)**
 
+Responsible for managing:
+
+- the UCL NeuroSoc Facebook Page(>5k likes, 5.4k followers)
+
+- the Instagram account (1,378 followers | +673 since March 2020 / during my position)
+
+- the Twitter account (2,368 followers)
+
+- the LinkedIn Page (new)
+
+
+**Fellow at Unexplored Neuroscience (Sept 2020 -)**
+
+Unexplored Neuroscience is an 8 month-long learning community (talks, journal clubs...), from 1st of September 2020 to April 2021, dedicated to exploring the unexplored sides of Neuroscience: Cognitive Neuroscience, Systems Neuroscience, Neurophilosophy, Developmental Neuroscience, Neuroengineering, Neurology + Neuroimmunology, Computational Neuroscience, Neuroinformatics.
+
 ---
 ## Skills
 **computational/programming**: Python, R, MATLAB (basic), Deep Learning Frameworks (PyTorch, Keras, scikit-learn, Tensorflow 1), SQL (basic), Git (Basic), speech science software (PRAAT, ELAN and others), MS Office, AWS
