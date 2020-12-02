@@ -21,7 +21,7 @@ permalink: /Certificates/
 
 ---
 
-## Data Protection - GDPR Training (2 courses): for Undergraduate/Master's and PhD's level 
+## Data Protection - GDPR Training (2 courses): for Undergraduate/Master's and PhD levels 
 
 *University College London*
 
