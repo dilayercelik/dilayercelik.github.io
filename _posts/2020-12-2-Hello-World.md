@@ -10,4 +10,4 @@ Nothing special here, and most of the info here is on my GitHub and LinkedIn any
 ---
 ## Random Quote
 
-*Give me where to stand, and I will move the earth.* Archimedes (287 BC - 212 BC), 300 B.C.
+*Give me where to stand, and I will move the earth.* Archimedes (287 BC - 212 BC)
