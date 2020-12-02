@@ -12,19 +12,19 @@ permalink: /CV/
 
 MSci (Hons) - Master of Science, Psychology and Language Sciences
 
-> *GRADE: Predicted First*\
+> *GRADE: Predicted First*
 
 **Lycee Charles Peguy Paris 11 (High School, -2019)**
 
 French Scientific Baccalaureate, with Further Maths (Bac S Spe Maths)
 
-> *GRADE: 19.31/20*\
+> *GRADE: 19.31/20*
 
 **Udacity (2020)**
 
 Completion of 2 (3-month long) Nanodegrees:
 
-AI Programming with Python, Machine Learning Engineer\
+AI Programming with Python, Machine Learning Engineer
 
 
 
@@ -32,17 +32,17 @@ AI Programming with Python, Machine Learning Engineer\
 
 **Undergraduate Research Assistant (Sept 2020 -)**
 
-at the UCL Language & Cognition Lab (Faculty of Brain Sciences, Dept of Experimental Psychology)\
+at the UCL Language & Cognition Lab (Faculty of Brain Sciences, Dept of Experimental Psychology)
 
 
 **Research Mentee/Intern in Natural Language Processing (Nov 2020 -)**
 
 Project: "Developing a Segmentation Pipeline to Characterise and Quantify Radiomic Features of NSCLC CT Scans"
 
-Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering\
+Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering
 
 
-**Media Officer of the UCL Neuroscience Society**\
+**Media Officer of the UCL Neuroscience Society**
 
 
 
