@@ -9,17 +9,21 @@ permalink: /CV/
 ## Education
 
 **University College London (2019-2023)**
+
 MSci (Hons) - Master of Science, Psychology and Language Sciences
 
 > *GRADE: Predicted First*
 
 **Lycee Charles Peguy Paris 11 (High School, -2019)**
+
 French Scientific Baccalaureate, with Further Maths (Bac S Spe Maths)
 
 > *GRADE: 19.31/20*
 
 **Udacity (2020)**
+
 Completion of 2 (3-month long) Nanodegrees:
+
 AI Programming with Python, Machine Learning Engineer
 
 
