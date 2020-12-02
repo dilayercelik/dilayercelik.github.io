@@ -7,7 +7,7 @@ title: The Criminal Justice, Psychology and Language Sciences
 
 **Insights from Social Psychology, Neuroscience, Perception and Speech Science Research**
 
-![img](https://github.com/dilayercelik/dilayercelik.github.io/blob/master/images/KN_neurolaw.jpg)
+<img src="{{site.url}}/images/KN_neurolaw.jpg" style="display: block; margin: auto;" />
 
 
 # I.	Social Psychology and the Criminal Justice System
