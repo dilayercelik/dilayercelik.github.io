@@ -8,52 +8,52 @@ permalink: /Certificates/
 
 ## Deep Learning Specialisation (5 courses) 
 
-deeplearning.ai via Coursera
+*deeplearning.ai via Coursera*
 
 ---
 
 
 ## Introduction to AI
 
-IBM via Coursera
+*IBM via Coursera*
 
 ---
 
 ## Data Protection - GDPR Training (2 courses): for Undergraduate/Master's and PhD's level 
 
-UCL
+*University College London*
 
 ---
 
 ## Introduction to Philosophy
 
-University of Edinburgh, via Coursera
+*University of Edinburgh, via Coursera*
 
 ---
 
 ## Computational Neuroscience
 
-University of Washington, via Coursera
+*University of Washington, via Coursera*
 
 ---
 
 ## Introduction to Psychology
 
-Yale, via Coursera
+*Yale, via Coursera*
 
 ---
 
 
 ## Learning How to Learn
 
-McMaster University, via Coursera
+*McMaster University, via Coursera*
 
 ---
 
 
 ## Childhood Adversity: The Impact of Childhood Maltreatment on Mental Health
 
-UCL, via Future Learn
+*University College London, via Future Learn*
 
 ---
 
