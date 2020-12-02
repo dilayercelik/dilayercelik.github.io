@@ -27,11 +27,16 @@ AI Programming with Python, Machine Learning Engineer
 ## A bit of Experience
 
 **Undergraduate Research Assistant (Sept 2020 -)**
+
 at the UCL Language & Cognition Lab (Faculty of Brain Sciences, Dept of Experimental Psychology)
 
+
 **Research Mentee/Intern in Natural Language Processing (Nov 2020 -)**
+
 Project: "Developing a Segmentation Pipeline to Characterise and Quantify Radiomic Features of NSCLC CT Scans"
+
 Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering
+
 
 **Media Officer of the UCL Neuroscience Society**
 
