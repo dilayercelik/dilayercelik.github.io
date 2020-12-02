@@ -44,7 +44,7 @@ MODULES TAKEN SO FAR
 - Introduction to Speech Science, speech science software (e.g. PRAAT) (term 2)
 
 
-*NB: no reported grades or weighting counting towards my final degree because of COVID-19.*
+*NB: no reported grades/weighting counting towards my final degree because of COVID-19.*
 
 Passed the Progression Module to advance into my second-year: 
 - **CAPSTONE: "Expert Advice to the Criminal Justice System: insights from Neuroscience, Social Psychology, Speech Science and Perception Research"**
