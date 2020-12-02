@@ -42,8 +42,7 @@ Project: "Developing a Segmentation Pipeline to Characterise and Quantify Radiom
 Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering
 
 
-**Media Officer of the UCL Neuroscience Society**
-
+**Media Officer of the UCL Neuroscience Society (March 2020 -)**
 
 
 
@@ -53,3 +52,19 @@ Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering
 **languages**: French (Native), English (Fluent), Turkish (Native), German (Intermediate Writing), Latin (Basic Writing)
 
 
+## Academic Awards
+
+Student Achievement Prize (£50) for overall performance in my first year (2019/20)
+
+Nominated by the Board of Examiners for the competitive UCL Faculty Undergraduate Scholarship for Excellence (2020)
+
+
+## Extracurricular
+
+**2019/20**
+
+UCL Neuroscience Society, UCL Artificial Intelligence Society, UCL Francophone Society...
+
+German Evening Classes (B2) at the Centre for Languages and International Education (UCL) for the spring term 2020
+
+Participated in the Global Citizenship Programme (Outbreak Strand) 
