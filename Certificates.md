@@ -50,6 +50,4 @@ UCL, via Future Learn
 
 
 
-### NB
-
-Check my LinkedIn to access the certificate pdf files. 
+*NB: Check my **LinkedIn** to access the certificate pdf files.*
