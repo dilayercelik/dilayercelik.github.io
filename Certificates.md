@@ -5,6 +5,8 @@ permalink: /Certificates/
 ---
 
 
+*NB: Check my **LinkedIn** to access the certificate pdf files.*
+
 
 ## Deep Learning Specialisation (5 courses) 
 
@@ -60,6 +62,3 @@ permalink: /Certificates/
 
 ## IELTS English Proficiency Exam (2018): Band 8/9
 
-
-
-*NB: Check my **LinkedIn** to access the certificate pdf files.*
