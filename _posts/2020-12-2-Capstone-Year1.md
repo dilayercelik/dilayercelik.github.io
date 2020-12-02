@@ -3,7 +3,7 @@ layout: post
 title: The Criminal Justice, Psychology and Language Sciences
 ---
 
-*I have written this 3000-word essay as my Capstone of my first-year of undergraduate studies, in order to progress into my second year.*
+*I have written this 3000-word essay as my Capstone of my first-year of undergraduate studies (required for progression into my second year).*
 
 
 # I.	Social Psychology and the Criminal Justice System
