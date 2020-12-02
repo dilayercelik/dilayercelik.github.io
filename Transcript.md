@@ -6,7 +6,7 @@ permalink: /Transcript/
 
 # MSci (Hons) - Master of Science, Psychology and Language Sciences: 2019-2023
 
-MODULES TAKEN
+MODULES TAKEN SO FAR
 
 ## 2020/21: Second Year
 
@@ -47,4 +47,6 @@ Passed the Progression Module to advance into my second-year:
 - Perception, Attention and Learning (term 2)
 
 - Introduction to Speech Science, speech science software (e.g. PRAAT) (term 2)
+
+
 
