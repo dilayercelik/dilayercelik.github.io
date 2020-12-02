@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Criminal Justice, Psychology and Language Sciences
+title: The Criminal Justice System, Psychology and Language Sciences
 ---
 
 *I have written this 3000-word essay as my Capstone Project at the end of my first-year of undergraduate studies (required for progression into the second year).*
