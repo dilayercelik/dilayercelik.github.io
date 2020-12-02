@@ -19,7 +19,7 @@ avatar: https://dilayercelik.github.io/images/linkedin-profile.jpeg
 footer-links:
   dribbble:
   email: dilay.ercelik.19@ucl.ac.uk
-  facebook:
+  facebook: dilay_ercelik
   flickr:
   github: dilayercelik
   instagram: 
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
