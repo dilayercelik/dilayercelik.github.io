@@ -60,9 +60,9 @@ Responsible for managing:
 
 ---
 ## Skills
-**computational/programming**: Python, R, MATLAB (basic), Deep Learning Frameworks (PyTorch, Keras, scikit-learn, Tensorflow 1), SQL (basic), Git (Basic), speech science software (PRAAT, ELAN and others), MS Office, AWS
+- **computational/programming**: Python, R, MATLAB (basic), Deep Learning Frameworks (PyTorch, Keras, scikit-learn, Tensorflow 1), SQL (basic), Git (Basic), speech science software (PRAAT, ELAN and others), MS Office, AWS
 
-**languages**: French (Native), English (Fluent), Turkish (Native), German (Intermediate Writing), Latin (Basic Writing)
+- **languages**: French (Native), English (Fluent), Turkish (Native), German (Intermediate Writing), Latin (Basic Writing)
 
 ---
 ## Academic Awards
