@@ -21,6 +21,7 @@ Completion of 2 (3-month long) Nanodegrees:
 AI Programming with Python, Machine Learning Engineer
 
 
+
 ## A bit of Experience
 
 ### Undergraduate Research Assistant (Sept 2020 -)
@@ -34,8 +35,10 @@ Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering
 
 
 
+
 ## Skills
-computational/programming: Python, R, MATLAB (basic), Deep Learning Frameworks (PyTorch, Keras, scikit-learn, Tensorflow 1), SQL (basic), Git (Basic), speech science software (PRAAT, ELAN and others), MS Office, AWS
-languages: French (Native), English (Fluent), Turkish (Native), German (Intermediate Writing), Latin (Basic Writing)
+**computational/programming**: Python, R, MATLAB (basic), Deep Learning Frameworks (PyTorch, Keras, scikit-learn, Tensorflow 1), SQL (basic), Git (Basic), speech science software (PRAAT, ELAN and others), MS Office, AWS
+
+**languages**: French (Native), English (Fluent), Turkish (Native), German (Intermediate Writing), Latin (Basic Writing)
 
 
