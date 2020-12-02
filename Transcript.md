@@ -4,7 +4,7 @@ title: Transcript
 permalink: /Transcript/
 ---
 
-# MSci (Hons) - Master of Science, Psychology and Language Sciences: 2019-2023
+## MSci (Hons) - Master of Science, Psychology and Language Sciences: 2019-2023
 
 MODULES TAKEN SO FAR
 
@@ -24,7 +24,7 @@ MODULES TAKEN SO FAR
 
 - Language and Communication (term 2)
 
-
+---
 ## 2019/20: First Year
 
 *NB: no reported grades or weighting counting towards my final degree because of COVID-19.*
