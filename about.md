@@ -13,4 +13,4 @@ What excites me the most is the application of computational tools and machine l
 
 ### Contact me
 
-[dilay.ercelik.19@ucl.ac.ukc](mailto:dilay.ercelik.19@ucl.ac.uk)
+[dilay.ercelik.19@ucl.ac.uk](mailto:dilay.ercelik.19@ucl.ac.uk)
