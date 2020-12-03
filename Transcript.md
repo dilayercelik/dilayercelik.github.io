@@ -9,38 +9,38 @@ permalink: /Transcript/
 
 ## 2020/21: Second Year
 
-- Calculus and Linear Algebra (term 1)
+- Calculus and Linear Algebra 
 
-- Intermediate Statistical Methods using R + Bayesian Statistics (term 1 & 2)
+- Intermediate Statistical Methods using R + Bayesian Statistics 
 
-- Development of Communication and Cognition (term 1 & 2)
+- Development of Communication and Cognition 
 
-- Qualitative and Mixed Research Methods (term 1)
+- Qualitative and Mixed Research Methods 
 
-- Language and Cognition (term 2)
+- Language and Cognition 
 
-- The Psychology of Individual Differences (term 2)
+- The Psychology of Individual Differences 
 
-- Language and Communication (term 2)
+- Language and Communication
 
 ---
 ## 2019/20: First Year
 
-- Introduction to Research Methods using R (term 1 & 2)
+- Introduction to Research Methods using R 
 
-- Introduction to Language - linguistics (term 1)
+- Introduction to Language - linguistics 
 
-- Memory (term 1)
+- Memory 
 
-- Evidence and Enquiry (term 1)
+- Evidence and Enquiry 
 
-- Neural Basis of Perception, Memory and Language (term 2)
+- Neural Basis of Perception, Memory and Language 
 
-- Social Psychology (term 2)
+- Social Psychology 
 
-- Perception, Attention and Learning (term 2)
+- Perception, Attention and Learning 
 
-- Introduction to Speech Science, speech science software (e.g. PRAAT) (term 2)
+- Introduction to Speech Science, speech science software (e.g. PRAAT)
 
 
 *NB: no reported grades/weighting counting towards my final degree because of COVID-19.*
