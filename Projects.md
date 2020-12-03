@@ -7,6 +7,7 @@ permalink: /Projects/
 📌 *For a clearer picture of my ✨[GitHub](https://github.com/dilayercelik)✨*
 
 ---
+---
 # Arvato-MLProject
 
 Source: [GitHub Repo](https://github.com/dilayercelik/Arvato-MLProject)
