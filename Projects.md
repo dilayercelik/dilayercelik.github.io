@@ -4,12 +4,14 @@ title: Little Side Projects
 permalink: /Projects/
 ---
 
-📌 For a clearer picture of my [GitHub](https://github.com/dilayercelik)
+📌 For a clearer picture of my ✨[GitHub](https://github.com/dilayercelik)✨
 
+---
 # Arvato-MLProject
 
 Source: [GitHub Repo](https://github.com/dilayercelik/Arvato-MLProject)
 
+<img src="{{site.url}}/images/ArvatoML.png" style="display: block; margin: auto;" />
 
 ---
 # NeuroML_Tumor Repo: Classic Brain Tumor MRI image classification
