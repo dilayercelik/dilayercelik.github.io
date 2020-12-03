@@ -18,46 +18,56 @@ Source: [GitHub Repo](https://github.com/dilayercelik/Arvato-MLProject)
 
 Source: [GitHub Repo](https://github.com/dilayercelik/NeuroML-Tumor)
 
+<img src="{{site.url}}/images/NeuroML.png" style="display: block; margin: auto;" />
 
 ---
 # Plagiarism-Detector
 
 Source: [GitHub Repo](https://github.com/dilayercelik/Plagiarism-Detector)
 
+<img src="{{site.url}}/images/PlagiarismDetector.png" style="display: block; margin: auto;" />
 
 ---
 # Sentiment-Analysis-Project-AWS
 
 Source: [GitHub Repo](https://github.com/dilayercelik/Sentiment-Analysis-Project-AWS)
 
+<img src="{{site.url}}/images/SentimentAnalysis.png" style="display: block; margin: auto;" />
 
 ---
 # Image-Classifier-Flowers
 
 Source: [GitHub Repo](https://github.com/dilayercelik/Image-Classifier-Flowers)
 
+<img src="{{site.url}}/images/FlowerClassifier.png" style="display: block; margin: auto;" />
 
 ---
 # neural-networks-tfw1
 
 Source: [GitHub Repo](https://github.com/dilayercelik/neural-networks-tfw1)
 
+<img src="{{site.url}}/images/NeuralNetworks.png" style="display: block; margin: auto;" />
+
 ---
 # AIPND-Project-1
 
 Source: [GitHub Repo](https://github.com/dilayercelik/AIPND-Project-1)
+
+<img src="{{site.url}}/images/DogClassifier.png" style="display: block; margin: auto;" />
 
 ---
 # COVID-19-FRANCE
 
 Source: [GitHub Repo](https://github.com/dilayercelik/COVID-19-FRANCE)
 
+<img src="{{site.url}}/images/COVID19France.png" style="display: block; margin: auto;" />
+
 ---
 # JPMorgan-virtual-internship
 
 Source: [GitHub Repo](https://github.com/dilayercelik/JPMorgan-virtual-internship)
 
-
+<img src="{{site.url}}/images/JPMorgan.png" style="display: block; margin: auto;" />
 
 ---
 # Off-Topic: ML/DL/Programming Related Repos 
