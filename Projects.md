@@ -4,7 +4,7 @@ title: Little Side Projects
 permalink: /Projects/
 ---
 
-📌 For a clearer picture of my ✨[GitHub](https://github.com/dilayercelik)✨
+📌 *For a clearer picture of my ✨[GitHub](https://github.com/dilayercelik)✨*
 
 ---
 # Arvato-MLProject
