@@ -46,7 +46,7 @@ permalink: /Transcript/
 
 - **Neural Basis of Perception, Memory and Language** 
   
-  - COursework Essay: "The Localisation of Different Functions in the Brain" (High 1.1, 87)
+  - Coursework Essay: "The Localisation of Different Functions in the Brain" (High 1.1, 87)
 
 - Social Psychology 
 
