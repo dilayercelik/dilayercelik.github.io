@@ -48,7 +48,7 @@ permalink: /Transcript/
   
   - Coursework Essay: "The Localisation of Different Functions in the Brain" (High 1.1, 87)
 
-- Social Psychology 
+- **Social Psychology** 
 
 - **Perception, Attention and Learning**
 
