@@ -30,9 +30,15 @@ permalink: /Transcript/
 
 - Introduction to Language - linguistics 
 
+  - Coursework Essay: "Animal Communication and Human Language" (High 2.1)
+
 - Memory 
+  
+  - Lab Report: "The Effect of Generating Responses During Learning" (1.1)
 
 - Evidence and Enquiry 
+
+  - Coursework Research Proposal: "Simulation, Risk Perception and Environmental Awareness" (1.1)
 
 - Neural Basis of Perception, Memory and Language 
 
