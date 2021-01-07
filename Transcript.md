@@ -10,18 +10,48 @@ permalink: /Transcript/
 ## 2020/21: Second Year
 
 - **Calculus and Linear Algebra**
+  
+  - Final Exam (85% weight): NA
+  
+  - Coursework Problem Sheet (10% weight): 100%
+  
+  - Average across 8 Weekly Quizzes (5% weight): 97.5%
 
 - **Intermediate Statistical Methods** using R + Bayesian Statistics 
+  
+  - Final Exam in R: NA
+  
+  - Coursework Lab Report in R (Secondary Data Analysis): NA
 
 - **Development of Communication and Cognition**
 
+  - Coursework Essay 1: NA
+  
+  - Coursework Lab Report: NA
+  
+  - Online Activities: NA
+
 - **Qualitative and Mixed Research Methods**
 
+  - Coursework Essay: "Confirmation Bias: The Battles of Quantitative and Qualitative Research Cultures" (NA)
+  
+  - Mixed Research Methods Lab Report: NA
+
 - **Language and Cognition**
+  
+  - Essay 1: NA
+  
+  - Essay 2: NA
 
 - **The Psychology of Individual Differences**
+  
+  - Essay 1: NA
+  
+  - Essay 2: NA
 
 - **Language and Communication**
+
+  - Narrated Poster: NA
 
 ---
 ## 2019/20: First Year
