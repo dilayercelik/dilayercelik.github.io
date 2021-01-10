@@ -19,13 +19,13 @@ permalink: /Transcript/
 
 - **Intermediate Statistical Methods** using R + Bayesian Statistics 
   
-  - Final Exam in R: NA
+  - Final Statistics Exam in R: NA
   
   - Coursework Lab Report in R (Secondary Data Analysis): NA
 
 - **Development of Communication and Cognition**
 
-  - Coursework Essay 1: NA
+  - Coursework Essay: "Social Cognition and Successful Language Development: Joint-Attentional Processes and Lexical Development" (NA)
   
   - Coursework Lab Report: NA
   
@@ -39,15 +39,15 @@ permalink: /Transcript/
 
 - **Language and Cognition**
   
-  - Essay 1: NA
+  - Exam Essay 1: NA
   
-  - Essay 2: NA
+  - Exam Essay 2: NA
 
 - **The Psychology of Individual Differences**
   
-  - Essay 1: NA
+  - Exam Essay 1: NA
   
-  - Essay 2: NA
+  - Exam Essay 2: NA
 
 - **Language and Communication**
 
