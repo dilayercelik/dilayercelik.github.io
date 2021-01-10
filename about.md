@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Dilay 👋 
 
-I'm Turkish, I was born in France and grew up in Paris, before heading to London for my undergraduate studies (2019-2023).
+I'm Turkish :) I was born in a small town of France; I lived there for 3 years, before coming to Paris (which is eventually where I grew up). I moved to London in 2019 for my undergraduate studies.
 
 I'm currently a second-year undergraduate student at UCL (sophomore), studying Psychology and Language Sciences.
 
