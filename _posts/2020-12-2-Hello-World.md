@@ -5,8 +5,6 @@ title: Hello, World!
 
 I guess I'll come back once I have an idea about what to write 👀
 
-Nothing special here, and most of the info here is on my GitHub and LinkedIn anyway, so...
-
 ---
 ## Random Quote
 
