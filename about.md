@@ -19,11 +19,6 @@ What excites me the most is the application of computational tools and machine l
 
 Current: Paris, France
 
-Other: 
-- London, UK  
-
-- Denizli, Turkey
-
 
 ### Contact me
 
