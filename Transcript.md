@@ -23,7 +23,7 @@ permalink: /Transcript/
   
   - Coursework Lab Report in R (Secondary Data Analysis + Preregistration): "Need to Belong, Narcissism, Political Affiliation and Subjective Wellbeing" (NA)
   
-  - Average across 14 Weekly Quizzes (15% weight): 100%
+  - Average across 14 Weekly Programming Assignments using R (15% weight): 100%
 
 - **Development of Communication and Cognition**
 
