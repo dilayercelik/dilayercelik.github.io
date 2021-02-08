@@ -57,7 +57,7 @@ permalink: /Transcript/
 
 ---
 ## 2019/20: First Year
-*~Highlights: Student Achievement Prize for Academic Performance (£50), Nomination for the UCL Faculty Undergraduate Scholarship for Excellence (£3,000)*
+*Highlights: Student Achievement Prize for Academic Performance (£50), Nomination for the UCL Faculty Undergraduate Scholarship for Excellence (£3,000)*
 
 - **Introduction to Research Methods using R** 
 
