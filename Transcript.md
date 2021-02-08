@@ -19,9 +19,9 @@ permalink: /Transcript/
 
 - **Intermediate Statistical Methods** using R + Bayesian Statistics 
   
-  - Final Statistics Exam in R (3 hours): NA
+  - Final Statistics Exam in R (3 hours, 50% weight): NA
   
-  - Coursework Lab Report in R (Secondary Data Analysis): "Need to Belong, Narcissism, Political Affiliation and Subjective Wellbeing" (NA)
+  - Coursework Lab Report in R (Secondary Data Analysis + Preregistration, 35% weight): "Need to Belong, Narcissism, Political Affiliation and Subjective Wellbeing" (NA)
   
   - Average across 14 Weekly Quizzes (15% weight): 100%
 
