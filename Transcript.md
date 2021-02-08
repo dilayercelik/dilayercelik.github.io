@@ -19,9 +19,11 @@ permalink: /Transcript/
 
 - **Intermediate Statistical Methods** using R + Bayesian Statistics 
   
-  - Final Statistics Exam in R: NA
+  - Final Statistics Exam in R (3 hours): NA
   
-  - Coursework Lab Report in R (Secondary Data Analysis): NA
+  - Coursework Lab Report in R (Secondary Data Analysis): "Need to Belong, Narcissism, Political Affiliation and Subjective Wellbeing" (NA)
+  
+  - Average across 14 Weekly Quizzes (15% weight): 100%
 
 - **Development of Communication and Cognition**
 
@@ -35,7 +37,7 @@ permalink: /Transcript/
 
   - Coursework Essay: "Confirmation Bias: The Battles of Quantitative and Qualitative Research Cultures" (NA)
   
-  - Mixed Research Methods Lab Report: NA
+  - Mixed Research Methods Lab Report: "Juror Decision-Making: Pre-Trial Detainment and Rational Inferences" (NA)
 
 - **Language and Cognition**
   
