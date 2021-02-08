@@ -45,7 +45,7 @@ permalink: /Transcript/
   
   - Exam Essay 2: NA
 
-- **The Psychology of Individual Differences**
+- **The Psychology of Individual Differences (Intelligence, Personality, Genes-Env Interactions)**
   
   - Exam Essay 1: NA
   
