@@ -67,6 +67,8 @@ permalink: /Transcript/
 
 - **Introduction to Language - linguistics**
 
+  - Exam: High 1.1, 83
+
   - Coursework Essay: "Animal Communication and Human Language" (High 2.1)
 
 - **Memory** 
