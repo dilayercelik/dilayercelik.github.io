@@ -56,8 +56,11 @@ permalink: /Transcript/
   - Narrated Poster: NA
 
 ---
-## 2019/20: First Year
-*Highlights: Student Achievement Prize for Academic Performance (£50), Nomination for the UCL Faculty Undergraduate Scholarship for Excellence (£3,000)*
+<details>
+<summary>2019/20: First Year</summary>
+<br>
+
+*~Highlights: Student Achievement Prize for Academic Performance (£50), Nomination for the UCL Faculty Undergraduate Scholarship for Excellence (£3,000)*
 
 - **Introduction to Research Methods using R** 
 
@@ -95,3 +98,4 @@ permalink: /Transcript/
 Passed the Progression Module to advance into my second-year: 
 - **CAPSTONE: "Expert Advice to the Criminal Justice System: insights from Neuroscience, Social Psychology, Speech Science and Perception Research"**
 
+</details>
