@@ -29,9 +29,9 @@ permalink: /Transcript/
 
   - Coursework Essay: "Social Cognition and Successful Language Development: Joint-Attentional Processes and Lexical Development" (NA)
   
-  - Coursework Lab Report: NA
+  - Coursework Lab Report (on existing data: COVID-19): "Relationship Between Procedural/Implicit Learning and Second Language (L2) Learning" (NA)
   
-  - Online Activities: NA
+  - Online Weekly Activities: NA
 
 - **Qualitative and Mixed Research Methods**
 
