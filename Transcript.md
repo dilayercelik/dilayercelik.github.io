@@ -96,5 +96,3 @@ permalink: /Transcript/
 
 Passed the Progression Module to advance into my second-year: 
 - **CAPSTONE: "Expert Advice to the Criminal Justice System: insights from Neuroscience, Social Psychology, Speech Science and Perception Research"**
-
-</details>
