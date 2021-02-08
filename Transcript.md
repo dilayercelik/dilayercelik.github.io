@@ -13,9 +13,9 @@ permalink: /Transcript/
   
   - Final Exam (85% weight): NA
   
-  - Coursework Problem Sheet (10% weight): 100%
+  - Coursework Problem Sheet (10% weight): 100
   
-  - Average across 8 Weekly Quizzes (5% weight): 97.5%
+  - Average across 8 Weekly Quizzes (5% weight): 97.5
 
 - **Intermediate Statistical Methods** using R + Bayesian Statistics 
   
@@ -23,7 +23,7 @@ permalink: /Transcript/
   
   - Coursework Lab Report in R (Secondary Data Analysis + Preregistration): "Need to Belong, Narcissism, Political Affiliation and Subjective Wellbeing" (NA)
   
-  - Average across 14 Weekly Programming Assignments using R (15% weight): 100%
+  - Average across 14 Weekly Programming Assignments using R (15% weight): 100
 
 - **Development of Communication and Cognition**
 
@@ -61,9 +61,9 @@ permalink: /Transcript/
 
 - **Introduction to Research Methods using R** 
 
-  - Final 3-hour Exam in R: 95% (High 1.1)
+  - Final 3-hour Exam in R: 95 (High 1.1)
   
-  - Coursework Essay: "Strengths and Limitations of Qualitative Analysis" (High 1.1, 80)
+  - Coursework Essay: "Strengths and Limitations of Qualitative Analysis" (High 1.1: 80)
 
 - **Introduction to Language - linguistics**
 
@@ -71,15 +71,15 @@ permalink: /Transcript/
 
 - **Memory** 
   
-  - Lab Report: "The Effect of Generating Responses During Learning" (1.1, 71)
+  - Lab Report: "The Effect of Generating Responses During Learning" (1.1: 71)
 
 - **Evidence and Enquiry** 
 
-  - Coursework Research Proposal: "Simulation, Risk Perception and Environmental Awareness" (1.1, 70)
+  - Coursework Research Proposal: "Simulation, Risk Perception and Environmental Awareness" (1.1: 70)
 
 - **Neural Basis of Perception, Memory and Language** 
   
-  - Coursework Essay: "The Localisation of Different Functions in the Brain" (High 1.1, 87)
+  - Practice Coursework Essay: "The Localisation of Different Functions in the Brain" (High 1.1: 87)
 
 - **Social Psychology** 
 
