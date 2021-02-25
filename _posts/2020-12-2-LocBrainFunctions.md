@@ -3,7 +3,7 @@ layout: post
 title: The Localisation of Different Functions in the Brain
 ---
 
-*I have written this 100-word practice essay in my 'Neural Basis of Perception, Memory and Language' module in my first-year of undergraduate studies, for which I received a High 1.1 (87).*
+*I have written this 1000-word practice essay in my 'Neural Basis of Perception, Memory and Language' module in my first-year of undergraduate studies, for which I received a High 1.1 (87).*
 
 # Introduction
 Localization of function refers to the idea that specific brain regions are responsible for specific functions: functions, such as language and memory, can be mapped onto particular brain areas. The first evidence was presented in the 1860s, with the case study of M. Leborgne (“Tan”) by Paul Broca (1861), whom found that damage to the left frontal lobe was linked to speech production impairement. Following him, others found similar causal links between localised damage and specific impairement, such as Fritsch and Hitzig in 1870 (Breathnach, 1992), Wernicke in 1874 (Bogen & Bogen, 1976). Although these works and others enabled the elaboration of detailed maps of the brain, more and more recent studies (Ruff, Driver & Bestmann, 2009) suggest that this modular view (at least alone) cannot be a satisfactory account of the brain, shedding light on alternative views (distributed, equipotential…).
