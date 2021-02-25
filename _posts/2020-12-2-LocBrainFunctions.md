@@ -35,30 +35,31 @@ Although earlier research showed that critical functions (memory, language funct
 ---
 # References
 
-Bates, E., Wilson, S., Saygin, A., Dick, F., Sereno, M., Knight, R. and Dronkers, N. (2003).	 Voxel-based lesion–symptom mapping. Nature Neuroscience, 6(5), 448-450.
+Bates, E., Wilson, S., Saygin, A., Dick, F., Sereno, M., Knight, R. and Dronkers, N. (2003). Voxel-based lesion–symptom mapping. *Nature Neuroscience*, *6*(5), 448-450.
 
-Bogen, J. E., & Bogen, G. M. (1976). Wernicke's region--Where is it. Annals of the New York	 Academy of Sciences, (280), 834-843.
+Bogen, J. E., & Bogen, G. M. (1976). Wernicke's region--Where is it. *Annals of the New York	 Academy of Sciences*, (280), 834-843.
 
-Breathnach, C. S. (1992). Eduard Hitzig, neurophysiologist and psychiatrist. History of		 Psychiatry, 3(11), 329–338. 
+Breathnach, C. S. (1992). Eduard Hitzig, neurophysiologist and psychiatrist. *History of	Psychiatry, 3*(11), 329–338. 
 
-Broca, P. P. (1861). Perte de la Parole, Ramollissement Chronique et Destruction 		Partielle du Lobe Antérieur Gauche du Cerveau. Bulletin de la Société			 Anthropologique, 2, 235-238. http://psychclassics.yorku.ca/Broca/perte-e.htm
+Broca, P. P. (1861). Perte de la Parole, Ramollissement Chronique et Destruction Partielle du Lobe Antérieur Gauche du Cerveau. *Bulletin de la Société			 Anthropologique, 2*, 235-238. http://psychclassics.yorku.ca/Broca/perte-e.htm
 
-Friederici A. D. (2011). The brain basis of language processing: from structure to function.	 Physiological Reviews, 91, 1357-1392.
+Friederici A. D. (2011). The brain basis of language processing: from structure to function. *Physiological Reviews, 91*, 1357-1392.
 
-Hagoort, P. (2013). MUC (Memory, Unification, Control) and beyond. Frontiers in		 Psychology, 4, 1-13.
+Hagoort, P. (2013). MUC (Memory, Unification, Control) and beyond. *Frontiers in	Psychology, 4*, 1-13.
 
-Kanwisher, N., McDermott, J. and Chun, M. (1997). The Fusiform Face Area: A Module in	 Human Extrastriate Cortex Specialized for Face Perception. The Journal of		 Neuroscience, 17(11), 4302-4311.
+Kanwisher, N., McDermott, J. and Chun, M. (1997). The Fusiform Face Area: A Module in	Human Extrastriate Cortex Specialized for Face Perception. *The Journal of		 Neuroscience, 17*(11), 4302-4311.
 
-Lashley, K. (1930). Basic neural mechanisms in behavior. Psychological Review, 37(1), 1-24.
-Patterson, K., Nestor, P. and Rogers, T. (2007). Where do you know what you know? The	 representation of semantic knowledge in the human brain. Nature Reviews		 Neuroscience, 8(12), 976-987.
+Lashley, K. (1930). Basic neural mechanisms in behavior. *Psychological Review, 37*(1), 1-24.
 
-Peelle, J.E. (2012). The hemispheric lateralization of speech processing depends on what		 “speech” is: a hierarchical perspective. Frontiers in Human Neuroscience, 6, 309.
+Patterson, K., Nestor, P. and Rogers, T. (2007). Where do you know what you know? The	representation of semantic knowledge in the human brain. *Nature Reviews		 Neuroscience, 8*(12), 976-987.
 
-Pitcher, D., Charles, L., Devlin, J., Walsh, V. and Duchaine, B. (2009). Triple Dissociation of	 Faces, Bodies, and Objects in Extrastriate Cortex. Current Biology, 19(4), 319-324.
+Peelle, J.E. (2012). The hemispheric lateralization of speech processing depends on what “speech” is: a hierarchical perspective. *Frontiers in Human Neuroscience, 6*, 309.
 
-Ruff, C., Driver, J. and Bestmann, S. (2009). Combining TMS and fMRI: From ‘virtual		 lesions’ to functional-network accounts of cognition. Cortex, 45(9), 1043-1049.
+Pitcher, D., Charles, L., Devlin, J., Walsh, V. and Duchaine, B. (2009). Triple Dissociation of Faces, Bodies, and Objects in Extrastriate Cortex. *Current Biology, 19*(4), 319-324.
 
-Squire, L. (2009). The Legacy of Patient H.M. for Neuroscience. Neuron, 61(1), 6-9.
+Ruff, C., Driver, J. and Bestmann, S. (2009). Combining TMS and fMRI: From ‘virtual	lesions’ to functional-network accounts of cognition. *Cortex, 45*(9), 1043-1049.
+
+Squire, L. (2009). The Legacy of Patient H.M. for Neuroscience. *Neuron, 61*(1), 6-9.
 
 
 
