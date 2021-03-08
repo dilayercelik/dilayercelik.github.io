@@ -21,21 +21,21 @@ permalink: /Transcript/
   
   - Final Statistics Exam in R (3 hours, 50% weight): NA
   
-  - Coursework Lab Report in R (Secondary Data Analysis + Preregistration): "Need to Belong, Narcissism, Political Affiliation and Subjective Wellbeing" (NA)
+  - Coursework Lab Report in R (Secondary Data Analysis + Preregistration): "Need to Belong, Narcissism, Political Affiliation and Subjective Wellbeing" (High 1.1, 77)
   
   - Average across 14 Weekly Programming Assignments using R (15% weight): 100
 
 - **Development of Communication and Cognition**
 
-  - Coursework Essay: "Social Cognition and Successful Language Development: Joint-Attentional Processes and Lexical Development" (NA)
+  - Coursework Essay: "Social Cognition and Successful Language Development: Joint-Attentional Processes and Lexical Development" (2.1, 63)
   
   - Coursework Lab Report (on existing data: COVID-19): "Relationship Between Procedural/Implicit Learning and Second Language (L2) Learning" (NA)
   
-  - Online Weekly Activities: NA
+  - Online Weekly Activities: 100%
 
 - **Qualitative and Mixed Research Methods**
 
-  - Coursework Essay: "Confirmation Bias: The Battles of Quantitative and Qualitative Research Cultures" (NA)
+  - Coursework Essay: "Confirmation Bias: The Battles of Quantitative and Qualitative Research Cultures" (High 1.1, 78)
   
   - Mixed Research Methods Lab Report: "Juror Decision-Making: Pre-Trial Detainment and Rational Inferences" (NA)
 
