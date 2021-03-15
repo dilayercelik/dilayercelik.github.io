@@ -4,6 +4,7 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
+More Info can be found on my [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/).
 
 ## Education
 
@@ -29,9 +30,12 @@ Completion of 2 (3-month long) Nanodegrees:
 ---
 ## A bit of Experience
 
-**Undergraduate Research Assistant (Sept 2020 -)**
+**(incoming) Spring Tech Insight Intern at Amazon 
 
-- at the UCL Language & Cognition Lab (Faculty of Brain Sciences, Dept of Experimental Psychology)
+- Offered a place to attend a 3-day tech insight programme from Amazon, followed by a mentorship scheme.
+
+
+**Student Researcher in NLP Project Team (UCL AI Society)
 
 
 **Research Mentee/Intern in Natural Language Processing (Nov 2020 -)**
@@ -41,6 +45,11 @@ Completion of 2 (3-month long) Nanodegrees:
 - Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering
 
 
+**Undergraduate Research Assistant (Sept 2020 -)**
+
+- at the UCL Language & Cognition Lab (Faculty of Brain Sciences, Dept of Experimental Psychology)
+
+
 **Media Officer of the UCL Neuroscience Society (March 2020 -)**
 
 Responsible for managing:
@@ -48,10 +57,6 @@ Responsible for managing:
 - the UCL NeuroSoc Facebook Page(>5k likes, 5.4k followers)
 
 - the Instagram account (1,378 followers | +673 since March 2020 / during my position)
-
-- the Twitter account (2,368 followers)
-
-- the LinkedIn Page (new)
 
 
 **Fellow at Unexplored Neuroscience (Sept 2020 -)**
