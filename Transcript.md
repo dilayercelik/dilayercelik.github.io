@@ -19,7 +19,7 @@ permalink: /Transcript/
 
 - **Intermediate Statistical Methods** using R + Bayesian Statistics 
   
-  - Final Statistics Exam in R (3 hours, 50% weight): NA
+  - Final Statistics Exam in R (3 hours, 50% weight): 93
   
   - Coursework Lab Report in R (Secondary Data Analysis + Preregistration): "Need to Belong, Narcissism, Political Affiliation and Subjective Wellbeing" (High 1.1, 77)
   
@@ -29,7 +29,7 @@ permalink: /Transcript/
 
   - Coursework Essay: "Social Cognition and Successful Language Development: Joint-Attentional Processes and Lexical Development" (2.1, 63)
   
-  - Coursework Lab Report (on existing data: COVID-19): "Relationship Between Procedural/Implicit Learning and Second Language (L2) Learning" (NA)
+  - Coursework Lab Report (on existing data ~COVID-19): "Relationship Between Procedural/Implicit Learning and Second Language (L2) Learning" (NA)
   
   - Online Weekly Activities: 100%
 
