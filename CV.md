@@ -30,12 +30,12 @@ Completion of 2 (3-month long) Nanodegrees:
 ---
 ## A bit of Experience
 
-**(incoming) Spring Tech Insight Intern at Amazon**
+**(incoming) Spring Tech Insight Intern at Amazon (April 2021)**
 
 - Offered a place to attend a 3-day tech insight programme from Amazon, followed by a mentorship scheme.
 
 
-**Student Researcher in NLP Project Team (UCL AI Society)**
+**Student Researcher in NLP Project Team at UCL AI Society (Dec 2020 -)**
 
 
 **Research Mentee/Intern in Natural Language Processing (Nov 2020 -)**
