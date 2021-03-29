@@ -1,7 +1,7 @@
 ---
 layout: page
-title: VUA Transcript
-permalink: /for_VUA_transcript/
+title: VUA_Transcript
+permalink: /VUA_transcript/
 ---
 
 # To the VUA Summer School Team: please find below the screenshots for my unofficial transcripts
