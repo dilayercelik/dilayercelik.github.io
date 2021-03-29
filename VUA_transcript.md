@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VUA_Transcript
+title: VUA_transcript
 permalink: /VUA_transcript/
 ---
 
