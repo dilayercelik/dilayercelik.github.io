@@ -6,7 +6,7 @@ permalink: /CV/
 
 Details can be found in my [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/).
 
-## Education
+# Education
 
 **University College London (2019-2023)**
 
@@ -28,7 +28,7 @@ Completion of 2 (3-month long) Nanodegrees:
 - AI Programming with Python (April-June 2020)
 
 ---
-## A bit of Experience
+# Experience
 
 **(INCOMING) Placement in AI Engineering Research in Imagination Technologies (July-Sept 2021)**
 
@@ -70,20 +70,20 @@ Responsible for managing:
 - the Instagram account (1,378 followers | +673 since March 2020 / during my position)
 
 ---
-## Skills
+# Skills
 - **computational/programming**: Python, R, MATLAB (basic), Deep Learning Frameworks (PyTorch, Keras, scikit-learn, Tensorflow 1), SQL (basic), Git (Basic), speech science software (PRAAT, ELAN and others), MS Office, AWS
 
 - **languages**: French (Native), English (Fluent), Turkish (Native), German (Intermediate Writing), Latin (Basic Writing)
 
 ---
-## Academic Awards
+# Academic Awards
 
 - Student Achievement Prize (£50) for overall performance in my first year (2019/20)
 
 - Nominated by the Board of Examiners for the competitive UCL Faculty Undergraduate Scholarship for Excellence (2020)
 
 ---
-## Extracurricular
+# Extracurricular
 
 UCL Neuroscience Society, UCL Artificial Intelligence Society, UCL Francophone Society...
 
