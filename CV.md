@@ -30,7 +30,18 @@ Completion of 2 (3-month long) Nanodegrees:
 ---
 ## A bit of Experience
 
-**(incoming) Spring Tech Insight Intern at Amazon (April 2021)**
+**(INCOMING) Placement in AI Engineering Research in Imagination Technologies (July-Sept 2021)
+
+- 3 months placement in AI Engineering Research!
+
+
+**(INCOMING) Research Intern in the Affective Brain Lab at UCL (May-June-... 2021)
+
+- under the supervision of PhD candidate Valentina Vellani
+- Project: TBA
+
+
+**Spring Tech Insight Intern at Amazon (April 2021)**
 
 - Offered a place to attend a 3-day tech insight programme from Amazon, followed by a mentorship scheme.
 
