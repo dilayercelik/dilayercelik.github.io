@@ -6,6 +6,7 @@ permalink: /CV/
 
 Details can be found in my [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/).
 
+---
 # Education
 
 **University College London (2019-2023)**
