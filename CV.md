@@ -58,7 +58,7 @@ Completion of 2 (3-month long) Nanodegrees:
 - Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering
 
 
-**Undergraduate Research Assistant (Sept 2020 -)**
+**Undergraduate Research Assistant in the LangCogLab at UCL (Sept 2020 -)**
 
 - at the UCL Language & Cognition Lab (Faculty of Brain Sciences, Dept of Experimental Psychology)
 
