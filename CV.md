@@ -30,7 +30,7 @@ Completion of 2 (3-month long) Nanodegrees:
 ---
 # Experience
 
-**\INCOMING/ Placement in AI Engineering Research in Imagination Technologies (July-Sept 2021)**
+**\INCOMING/ Placement in AI Engineering Research at Imagination Technologies (July-Sept 2021)**
 
 - 3 months placement in AI Engineering Research!
 
