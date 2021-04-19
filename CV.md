@@ -10,7 +10,7 @@ Details can be found in my [LinkedIn](https://www.linkedin.com/in/dilay-fidan-er
 
 **University College London (2019-2023)**
 
-MSci (Hons) - Master of Science, Psychology and Language Sciences
+MSci (Hons) - Master in Science, Psychology and Language Sciences
 
 - *GRADE: Predicted First*
 
