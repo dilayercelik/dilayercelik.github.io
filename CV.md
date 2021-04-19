@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
-More Info can be found on my [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/).
+Details can be found in my [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/).
 
 ## Education
 
@@ -84,7 +84,6 @@ Responsible for managing:
 
 ---
 ## Extracurricular
-
 
 UCL Neuroscience Society, UCL Artificial Intelligence Society, UCL Francophone Society...
 
