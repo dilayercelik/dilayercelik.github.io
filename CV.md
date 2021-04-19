@@ -30,12 +30,12 @@ Completion of 2 (3-month long) Nanodegrees:
 ---
 ## A bit of Experience
 
-**(INCOMING) Placement in AI Engineering Research in Imagination Technologies (July-Sept 2021)
+**(INCOMING) Placement in AI Engineering Research in Imagination Technologies (July-Sept 2021)**
 
 - 3 months placement in AI Engineering Research!
 
 
-**(INCOMING) Research Intern in the Affective Brain Lab at UCL (May-June-... 2021)
+**(INCOMING) Research Intern in the Affective Brain Lab at UCL (May-June-... 2021)**
 
 - under the supervision of PhD candidate Valentina Vellani
 - Project: TBA
