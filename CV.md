@@ -46,7 +46,9 @@ Completion of 2 (3-month long) Nanodegrees:
 - Offered a place to attend a 3-day tech insight programme from Amazon, followed by a mentorship scheme.
 
 
-**Student Researcher in NLP Project Team at UCL AI Society (Dec 2020 -)**
+**Student Researcher in NLP Project Team at UCL AI Society (Dec 2020 - March 2021)**
+
+- Left to focus on studies/exams + because of the project's next stage being business-level (and my current focus being on *learning* NLP for now!)
 
 
 **Research Mentee/Intern in Natural Language Processing (Nov 2020 -)**
