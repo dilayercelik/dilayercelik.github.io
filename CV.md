@@ -13,6 +13,7 @@ Details can be found in my [LinkedIn](https://www.linkedin.com/in/dilay-fidan-er
 MSci (Hons) - Master in Science, Psychology and Language Sciences
 
 - *GRADE: Predicted First*
+- Year 4: Research Pathway
 
 **Lycee Charles Peguy Paris 11 (High School, 2016-2019)**
 
