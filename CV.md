@@ -14,7 +14,7 @@ MSci (Hons) - Master of Science, Psychology and Language Sciences
 
 - *GRADE: Predicted First*
 
-**Lycee Charles Peguy Paris 11 (High School, -2019)**
+**Lycee Charles Peguy Paris 11 (High School, 2016-2019)**
 
 French Scientific Baccalaureate, with Further Maths (Bac S Spe Maths)
 
