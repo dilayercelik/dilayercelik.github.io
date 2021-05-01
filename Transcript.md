@@ -28,7 +28,7 @@ permalink: /Transcript/
 
 - **Calculus and Linear Algebra**
   
-  - Final Exam (85% weight): NA
+  - Final Exam (85% weight): TBA
   
   - Coursework Problem Sheet (10% weight): 100
   
@@ -46,7 +46,7 @@ permalink: /Transcript/
 
   - Coursework Essay: "Social Cognition and Successful Language Development: Joint-Attentional Processes and Lexical Development" (2.1, 63)
   
-  - Coursework Lab Report (on existing data ~COVID-19): "Relationship Between Procedural/Implicit Learning and Second Language (L2) Learning" (NA)
+  - Coursework Lab Report (on existing data ~COVID-19): "Relationship Between Procedural/Implicit Learning and Second Language (L2) Learning" (TBA)
   
   - Online Weekly Activities: 100%
 
@@ -54,23 +54,23 @@ permalink: /Transcript/
 
   - Coursework Essay: "Confirmation Bias: The Battles of Quantitative and Qualitative Research Cultures" (High 1.1, 78)
   
-  - Mixed Research Methods Lab Report: "Juror Decision-Making: Pre-Trial Detainment and Rational Inferences" (NA)
+  - Mixed Research Methods Lab Report: "Juror Decision-Making: Pre-Trial Detainment and Rational Inferences" (TBA)
 
 - **Language and Cognition**
   
-  - Exam Essay 1: "Language is Multimodal: Evidence from Production, Reception and Development" (NA)
+  - Exam Essay 1: "Language is Multimodal: Evidence from Production, Reception and Development" (TBA)
   
-  - Exam Essay 2: "The Role of Projections and Multimodal Signalling in *Seamless* Turn-Taking" (NA)
+  - Exam Essay 2: "The Role of Projections and Multimodal Signalling in *Seamless* Turn-Taking" (TBA)
 
 - **The Psychology of Individual Differences (Intelligence, Personality, Genes-Env Interactions)**
   
-  - Exam Essay 1: NA
+  - Exam Essay 1: TBA
   
-  - Exam Essay 2: NA
+  - Exam Essay 2: TBA
 
 - **Language and Communication**
 
-  - Narrated Poster: "Do Fake News Have Distinguishables Features?" Evidence from Emotional Valence and Writing Style & Machine Learning Detection Approaches (NA)
+  - Narrated Poster: "Do Fake News Have Distinguishables Features?" Evidence from Emotional Valence and Writing Style & Machine Learning Detection Approaches (TBA)
 
 ---
 ## 2019/20: First Year
