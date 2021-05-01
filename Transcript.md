@@ -41,9 +41,9 @@ permalink: /Transcript/
 
 - **Language and Cognition**
   
-  - Exam Essay 1: NA
+  - Exam Essay 1: "Language is Multimodal: Evidence from Production, Reception and Development" (NA)
   
-  - Exam Essay 2: NA
+  - Exam Essay 2: "The Role of Projections and Multimodal Signalling in *Seamless* Turn-Taking" (NA)
 
 - **The Psychology of Individual Differences (Intelligence, Personality, Genes-Env Interactions)**
   
@@ -53,7 +53,7 @@ permalink: /Transcript/
 
 - **Language and Communication**
 
-  - Narrated Poster: NA
+  - Narrated Poster: "Do Fake News Have Distinguishables Features?" Evidence from Emotional Valence and Writing Style & Machine Learning Detection Approaches (NA)
 
 ---
 ## 2019/20: First Year
