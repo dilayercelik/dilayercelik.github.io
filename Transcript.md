@@ -11,6 +11,18 @@ permalink: /Transcript/
 
 **BSc Thesis**: TBA
 
+- **module 1**
+
+- **module 2**
+
+- **module 3**
+
+- **module 4**
+
+- **module 5**
+
+- **module 6**
+
 ---
 ## 2020/21: Second Year
 
