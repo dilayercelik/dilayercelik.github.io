@@ -109,7 +109,7 @@ permalink: /Transcript/
   - Coursework Report: "Introduction to the Articulation, Acoustics and Phonology of Vowels" (High 2.1)
 
 
-*NB: no reported grades/weighting in my first year counting towards my final degree because of COVID-19.*
+*NB: NO reported grades/weighting in my first year are counting towards my final degree (in response to COVID-19).*
 
 Passed the Progression Module to advance into my second-year: 
 - **CAPSTONE: "Expert Advice to the Criminal Justice System: insights from Neuroscience, Social Psychology, Speech Science and Perception Research"**
