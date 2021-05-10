@@ -4,7 +4,7 @@ title: Transcript
 permalink: /Transcript/
 ---
 
-## MSci (Honours) - Master of Science, Psychology and Language Sciences: 2019-2023
+## MSci (Honours) - Integrated Master of Science, Psychology and Language Sciences: 2019-2023
 
 ---
 ## 2022/23: Fourth Year - Master's Level (TBA)
