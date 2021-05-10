@@ -12,8 +12,8 @@ I'm currently a second-year undergraduate student at UCL (sophomore), studying a
 
 ### More Information
 
-I'm interested in neuroscience, especially its computational and cognitive subfields, and Artificial Intelligence. 
-What excites me the most is the application of computational tools and machine learning/deep learning techniques to research in neuroscience and cognitive science, which is also what I aspire to pursue after my undergraduate studies.
+I'm interested in neuroscience, especially its computational and cognitive subfields, and artificial intelligence. 
+What excites me the most is the application of computational tools and machine learning/deep learning techniques to research in neuroscience and cognitive science, which is exactly what I aspire to pursue after my undergraduate studies.
 
 ### Location
 
