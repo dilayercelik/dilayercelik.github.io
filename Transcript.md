@@ -4,7 +4,7 @@ title: Transcript
 permalink: /Transcript/
 ---
 
-## MSci (Hons) - Master of Science, Psychology and Language Sciences: 2019-2023
+## MSci (Honours) - Master of Science, Psychology and Language Sciences: 2019-2023
 
 ---
 ## 2021/22: Third Year (TBA)
@@ -46,7 +46,7 @@ permalink: /Transcript/
 
   - Coursework Essay: "Social Cognition and Successful Language Development: Joint-Attentional Processes and Lexical Development" (2.1, 63)
   
-  - Coursework Lab Report (on existing data ~COVID-19): "Relationship Between Procedural/Implicit Learning and Second Language (L2) Learning" (TBA)
+  - Coursework Lab Report (on existing data ~COVID-19): "Relationship Between Procedural/Implicit Learning and Second Language Learning" (TBA)
   
   - Online Weekly Activities: 100%
 
@@ -64,9 +64,9 @@ permalink: /Transcript/
 
 - **The Psychology of Individual Differences (Intelligence, Personality, Genes-Env Interactions)**
   
-  - Exam Essay 1: TBA
+  - Exam Essay 1: "Individual Differences in Mental Health: A Multifactorial Account" (TBA)
   
-  - Exam Essay 2: TBA
+  - Exam Essay 2: "The Trainability of Creativity: Evaluation of Laboratory and Applied Setting Research" (TBA)
 
 - **Language and Communication**
 
