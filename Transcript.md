@@ -7,6 +7,9 @@ permalink: /Transcript/
 ## MSci (Honours) - Master of Science, Psychology and Language Sciences: 2019-2023
 
 ---
+## 2022/23: Fourth Year - Master's Level (TBA)
+
+---
 ## 2021/22: Third Year (TBA)
 
 **BSc Thesis**: TBA
