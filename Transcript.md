@@ -4,7 +4,8 @@ title: Transcript
 permalink: /Transcript/
 ---
 
-## MSci (Honours) - Integrated Master of Science, Psychology and Language Sciences: 2019-2023
+## Degree
+### MSci (Honours) - Integrated Master of Science, Psychology and Language Sciences: 2019-2023
 
 Below is a summary of all the graded coursework and exams I have completed during my MSci degree at UCL.
 
