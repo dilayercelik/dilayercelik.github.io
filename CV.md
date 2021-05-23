@@ -70,7 +70,6 @@ Completion of 2 (3-month long) Nanodegrees:
 Responsible for managing:
 
 - the UCL NeuroSoc Facebook Page(>5k likes, 5.4k followers)
-
 - the Instagram account (1,378 followers | +673 since March 2020 / during my position)
 
 ---
