@@ -80,7 +80,7 @@ Responsible for managing:
 - **languages**: French (Native), English (Fluent), Turkish (Native), German (Intermediate Writing), Latin (Basic Writing)
 
 ---
-# Academic Awards
+# Academic Awards 
 
 - Student Achievement Prize (£50) for overall performance in my first year (2019/20)
 
