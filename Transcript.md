@@ -12,6 +12,9 @@ Below is a summary of all the graded coursework and exams I have completed durin
 ---
 ## 2022/23: Fourth Year - Master's Level (TBA)
 
+Planning to take the Research Pathway
+**MSci Thesis**: TBA
+
 ---
 ## 2021/22: Third Year (TBA)
 
