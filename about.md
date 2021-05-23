@@ -4,9 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-Hi, I'm Dilay 👋 
+Hi, I'm Dilay 😄
 
-### Where I'm coming from
+### Introduction
+  - My name is Dilay; it's a Turkish-Persian name that means "as beautiful and bright as the moon" and "the moon that brightens your heart".
+ 
   - I'm a French national of Turkish descent, born in Brive in 2001. I lived there for 3 years, before my family eventually moved to Paris; I ended up growing up in the French capital, while going back to my country of origin once a year (sometimes biannually, even). I then moved out to London in September 2019 for my undergraduate studies but had to go back to Paris when the COVID-19 pandemic worsened (studying and working part-time & remotely). After a mentally and academically challenging few months, I'm now super excited to be back in London!
 
 ### Studies
