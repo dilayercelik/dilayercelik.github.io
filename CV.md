@@ -34,13 +34,14 @@ Completion of 2 (3-month long) Nanodegrees:
 
 **\INCOMING/ Placement in AI Engineering Research at Imagination Technologies (July-Sept 2021)**
 
-- 3 months placement in AI Engineering Research!
+- 3 months placement in AI Engineering Research
 
 
-**\INCOMING/ Research Intern in the Affective Brain Lab at UCL (May-June-... 2021)**
+**Research Intern in the Affective Brain Lab at UCL (May-June-... 2021)**
 
 - under the supervision of PhD candidate Valentina Vellani
-- Project: TBA
+
+- Project: Online study on information sharing and seeking, depending on information instrumentality, uncertainty and valence
 
 
 **Spring Tech Insight Intern at Amazon (April 2021)**
@@ -67,10 +68,9 @@ Completion of 2 (3-month long) Nanodegrees:
 
 **Media Officer of the UCL Neuroscience Society (March 2020 -)**
 
-Responsible for managing:
-
-- the UCL NeuroSoc Facebook Page(>5k likes, 5.4k followers)
-- the Instagram account (1,378 followers | +673 since March 2020 / during my position)
+- Responsible for managing:
+  - the UCL NeuroSoc Facebook Page(>5k likes, 5.4k followers)
+  - the Instagram account (1,378 followers | +673 since March 2020 / during my position)
 
 ---
 # Skills
