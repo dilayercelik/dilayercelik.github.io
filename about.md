@@ -28,4 +28,4 @@ What excites me the most is the application of computational tools and machine l
 
 ### Contact me
   - [dilay.ercelik.19@ucl.ac.uk](mailto:dilay.ercelik.19@ucl.ac.uk)
-  - I'm also active on LinkedIn, so feel free to reach to me there, alternatively.
+  - I'm also active on LinkedIn, so feel free to reach out to me there, alternatively.
