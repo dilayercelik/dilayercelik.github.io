@@ -6,9 +6,9 @@ permalink: /about/
 
 Hi, I'm Dilay 👋 
 
-I'm Turkish :) I was born in a small town of France; I lived there for 3 years, before moving to Paris (which is where I grew up). I then moved to London in September 2019 for my undergraduate studies. I'm now back in Paris (COVID-19), studying and working part-time remotely.
+I'm a French national of Turkish descent, born in a small town of France in 2001; I lived there for 3 years, before my family moved to Paris (which is where I grew up). I then moved on my own to London in September 2019 for my undergraduate studies. I went back to Paris when the COVID-19 pandemic worsened, studying and working part-time & remotely; after a mentally and academically challenging year, I'm now super excited to be back in London!
 
-I'm currently a second-year undergraduate student at UCL (sophomore), studying an Integrated Master of Science in Psychology and Language Sciences, focusing on the following areas: psychology, linguistics, neuroscience & maths/statistics (with R).
+I'm currently an undergraduate student at UCL (going into my third year), studying an Integrated Master of Science in Psychology and Language Sciences, an interdisciplinary degree spanning the following areas: psychology, linguistics, neuroscience & maths/statistics (with R).
 
 ### More Information
 
@@ -24,4 +24,4 @@ Current: Paris, France
 
 [dilay.ercelik.19@ucl.ac.uk](mailto:dilay.ercelik.19@ucl.ac.uk)
 
-I'm also active on LinkedIn.
+I'm also active on LinkedIn, so feel free to reach to me there, alternatively.
