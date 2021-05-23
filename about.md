@@ -21,7 +21,7 @@ In terms of research dpmains, I'm most inspired by research investigating human/
 ### Location
 Current: Paris, France
 
-
+---
 ### Contact me
 [dilay.ercelik.19@ucl.ac.uk](mailto:dilay.ercelik.19@ucl.ac.uk)
 
