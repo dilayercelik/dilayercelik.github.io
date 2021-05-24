@@ -14,7 +14,7 @@ Hi, I'm Dilay 😄
 ### Studies
   - I'm currently an undergraduate student at UCL (going into my third year), studying an Integrated Master of Science in Psychology and Language Sciences, which is an interdisciplinary degree at the intersection of the following areas: psychology, linguistics, neuroscience & maths/statistics (with R).
  
-  - Prior to entering university, I obtained a French Scientific Baccalaurate (2019) with a speciality in Further Maths.
+  - Prior to entering university, I obtained a French Scientific Baccalaurate (2019) with a speciality in Further Maths (Mention TB: 19.31/20)
 
 ### Overarching research interests
   - I'm interested in neuroscience, especially its computational and cognitive subfields, and artificial intelligence. 
