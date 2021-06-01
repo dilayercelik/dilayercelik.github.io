@@ -18,7 +18,7 @@ Planning to take the Research Pathway
 ---
 ## 2021/22: Third Year (TBA)
 
-**BSc Thesis**: TBA
+**BSc Thesis (provisional title)**: "The Illusory Truth Effect in Information Sharing" (supervisor: Prof Tali Sharot)
 
 - **module 1**
 
