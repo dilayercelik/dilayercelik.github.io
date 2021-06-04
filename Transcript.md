@@ -18,7 +18,7 @@ Planning to take the Research Pathway
 ## 2021/22: Third Year (TBA)
 
 **BSc Thesis (provisional title)**: "The Illusory Truth Effect in Information Sharing" (supervisor: Prof Tali Sharot)
-- <details>
+  <details>
   <summary>sneak peek of the Thesis</summary>
   We are significantly more likely to believe that a piece of information is true if it has been repeated multiple times, regardless of its actual truth value or even one's awareness of the initial misinformation (the well-known illusory truth effect); this cognitive bias can be understood within a processing fluency account, has been found across many experimental conditions, and is most robust for ambiguous statements (Enter: fake news). Does the truth effect then impact what we choose to do with information? In particular, is our information-sharing tendency influenced by our repeated exposure and truth judgments? 
 With practical implications ranging from marketing/advertising to health policy, social media (mis)use to all kinds of propaganda, empirical questions tackling information processing and usage are increasingly relevant in our input-rich world, and for human behaviour research.
