@@ -35,7 +35,7 @@ Completion of 2 (3-month long) Nanodegrees:
 **\INCOMING/ Placement in AI Engineering Research at Imagination Technologies (July-Sept 2021)**
 
 - 3 months placement in AI Engineering Research
-- Research Project: Biological Neural Networks for the Development of Artificial Neural Networks 
+- Research Project: Biological Neural Networks for Artificial Neural Networks 
 
 
 **Research Intern in the Affective Brain Lab at UCL (May-June-... 2021)**
