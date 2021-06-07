@@ -84,6 +84,7 @@ With practical implications ranging from marketing/advertising to health policy,
 - **Language and Communication**
 
   - Narrated Poster: "Do Fake News Have Distinguishables Features?" Evidence from Emotional Valence and Writing Style & Machine Learning Detection Approaches (High 1.1, 78)
+ 
     ![img](https://github.com/dilayercelik/dilayercelik.github.io/blob/master/images/FakeNews_poster.png)
 
 ---
