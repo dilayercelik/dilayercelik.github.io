@@ -27,4 +27,4 @@ Hi, I'm Dilay 😄
 
 ### Contact me
   - [dilay.ercelik.19@ucl.ac.uk](mailto:dilay.ercelik.19@ucl.ac.uk)
-  - I'm also active on LinkedIn, so feel free to reach out to me there, alternatively.
+  - I'm also active on LinkedIn, so feel free to reach out to me from there.
