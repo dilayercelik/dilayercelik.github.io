@@ -32,7 +32,11 @@ Completion of 2 (3-month long) Nanodegrees:
 ---
 # Experience
 
-**\INCOMING/ Placement in AI Engineering Research at Imagination Technologies (July-Sept 2021)**
+**\INCOMING/ MSci Research Intern in Neural Plasticity and Crossmodal Reorganisation at UCL (from Sept 2022)**
+
+**\INCOMING/ SDE Intern at Amazon (July-Sept 2022)**
+
+**Research Placement in AI Engineering Research at Imagination Technologies (July-Sept 2021)**
 
 - 3 months placement in AI Engineering Research
 - Research Project: Biological Neural Networks for Artificial Neural Networks 
@@ -82,17 +86,22 @@ Completion of 2 (3-month long) Nanodegrees:
 ---
 # Academic Awards 
 
+- UCL Faculty Undergraduate Scholarship for Excellence (£3,000) (2021)
+
+- Jackson Lewis Scholarship Award for Best 2nd Year Student in the Faculty (£200) (2021)
+
+- Dean's List for Year 2 (2021)
+
+- Academic Excellence Scholarship from VUAmsterdam for their summer term (800euros) (2021)
+
 - Student Achievement Prize (£50) for overall performance in my first year (2019/20)
 
 - Nominated by the Board of Examiners for the competitive UCL Faculty Undergraduate Scholarship for Excellence (2020)
 
+
 ---
 # Extracurricular
 
-UCL Neuroscience Society, UCL Artificial Intelligence Society, UCL Francophone Society...
-
-**2019/20**
-
+- UCL Neuroscience Society, UCL Artificial Intelligence Society, UCL Francophone Society...
 - German Evening Classes (B2) at the Centre for Languages and International Education (UCL) for the spring term 2020
-
 - Participated in the Global Citizenship Programme (Outbreak Strand) 
