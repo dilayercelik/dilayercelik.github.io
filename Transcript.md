@@ -8,7 +8,7 @@ permalink: /Transcript/
 
 Below is a summary of all the graded coursework and exams I have completed during my MSci degree at UCL.
 
----
+--
 ## 2022/23: Fourth Year - Master's Level (TBA)
 
 Planning to take the Research Pathway
@@ -23,7 +23,7 @@ Planning to take the Research Pathway
 - **module 4**
 
 ---
-## 2021/22: Third Year (TBA)
+## 2021/22: Third Year
 
 **BSc Thesis**: "Influence of Instrumentality, Valence and Receiver's Uncertainty on Information Sharing" (supervisor: Prof Tali Sharot, Valentina Vellani)
 
@@ -54,6 +54,7 @@ Planning to take the Research Pathway
   - Coursework Essay (75% weight): "Analysis of Language Samples from a Dementia Patient (1.1, 75)
   
   - 1h long MCQ (25% weight): 100
+ 
 ---
 ## 2020/21: Second Year
 
