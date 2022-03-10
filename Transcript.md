@@ -14,16 +14,6 @@ Below is a summary of all the graded coursework and exams I have completed durin
 Planning to take the Research Pathway
 **MSci Thesis**: TBA
 
----
-## 2021/22: Third Year (TBA)
-
-**BSc Thesis (provisional title)**: "The Illusory Truth Effect in Information Sharing" (supervisor: Prof Tali Sharot)
-  <details>
-  <summary>sneak peek of the Thesis</summary>
-  We are significantly more likely to believe that a piece of information is true if it has been repeated multiple times, regardless of its actual truth value or even one's awareness of the initial misinformation (the well-known illusory truth effect); this cognitive bias can be understood within a processing fluency account, has been found across many experimental conditions, and is most robust for ambiguous statements (Enter: fake news). Does the truth effect then impact what we choose to do with information? In particular, is our information-sharing tendency influenced by our repeated exposure and truth judgments? 
-With practical implications ranging from marketing/advertising to health policy, social media (mis)use to all kinds of propaganda, empirical questions tackling information processing and usage are increasingly relevant in our input-rich world, and for human behaviour research.
-  </details>
-
 - **module 1**
 
 - **module 2**
@@ -32,22 +22,50 @@ With practical implications ranging from marketing/advertising to health policy,
 
 - **module 4**
 
-- **module 5**
+---
+## 2021/22: Third Year (TBA)
 
-- **module 6**
+**BSc Thesis**: "Influence of Instrumentality, Valence and Receiver's Uncertainty on Information Sharing" (supervisor: Prof Tali Sharot, Valentina Vellani)
 
+- **Neural Computation: Models of Brain Function**
+
+  - Final Exam 3h (95% weight): (TBA)  
+
+  - Coursework Essay (5% weight): Critique of Frean (1990): The Upstart Algorithm (74) 
+
+- **Cognitive Neuroscience**
+
+  - Research Poster (100% weight): "Do Individuals with ASD exhibit impairments in prospective memory?" (TBA)
+
+- **Topics in Neurobiology**
+
+  - Coursework Essay + Questions (100% weight): paper = (TBA)
+
+- **Introduction to Deep Learning for Speech and Language Sciences**
+
+  - Deep Learning Jupyter Notebook on a Speech Task (100% weight): (TBA)
+
+- **Brain Stimulation**
+
+  - Lab Report of a Novel Brain Stimulation Study (100% weight): (TBA)
+
+- **Language and Communication in Dementia**
+
+  - Coursework Essay (75% weight): "Analysis of Language Samples from a Dementia Patient (1.1, 75)
+  
+  - 1h long MCQ (25% weight): 100
 ---
 ## 2020/21: Second Year
 
-- **Calculus and Linear Algebra**
+- **Calculus and Linear Algebra (98.73)**
   
-  - Final Exam (85% weight): TBA
+  - Final Exam (85% weight): 100
   
   - Coursework Problem Sheet (10% weight): 100
   
   - Average across 8 Weekly Quizzes (5% weight): 97.5
 
-- **Intermediate Statistical Methods** using R + Bayesian Statistics 
+- **Intermediate Statistical Methods (88.45)** using R + Bayesian Statistics 
   
   - Final Statistics Exam in R (3 hours, 50% weight): 93
   
@@ -55,33 +73,33 @@ With practical implications ranging from marketing/advertising to health policy,
   
   - Average across 14 Weekly Programming Assignments using R (15% weight): 100
 
-- **Development of Communication and Cognition**
+- **Development of Communication and Cognition (71.40)**
 
   - Coursework Essay: "Social Cognition and Successful Language Development: Joint-Attentional Processes and Lexical Development" (2.1, 63)
   
-  - Coursework Lab Report (on existing data ~COVID-19): "Relationship Between Procedural/Implicit Learning and Second Language Learning" (TBA)
+  - Coursework Lab Report (on existing data ~COVID-19): "Relationship Between Procedural/Implicit Learning and Second Language Learning" (65)
   
   - Online Weekly Activities: 100%
 
-- **Qualitative and Mixed Research Methods**
+- **Qualitative and Mixed Research Methods (67.50)**
 
   - Coursework Essay: "Confirmation Bias: The Battles of Quantitative and Qualitative Research Cultures" (High 1.1, 78)
   
-  - Mixed Research Methods Lab Report: "Juror Decision-Making: Pre-Trial Detainment and Rational Inferences" (TBA)
+  - Mixed Research Methods Lab Report: "Juror Decision-Making: Pre-Trial Detainment and Rational Inferences" (57)
 
-- **Language and Cognition**
+- **Language and Cognition (73)**
   
-  - Exam Essay 1: "Language is Multimodal: Evidence from Production, Reception and Development" (TBA)
+  - Exam Essay 1: "Language is Multimodal: Evidence from Production, Reception and Development" (68)
   
-  - Exam Essay 2: "The Role of Projections and Multimodal Signalling in *Seamless* Turn-Taking" (TBA)
+  - Exam Essay 2: "The Role of Projections and Multimodal Signalling in *Seamless* Turn-Taking" (78)
 
-- **The Psychology of Individual Differences (Intelligence, Personality, Genes-Env Interactions)**
+- **The Psychology of Individual Differences (Intelligence, Personality, Genes-Env Interactions) (69.50)**
   
-  - Exam Essay 1: "Individual Differences in Mental Health: A Multifactorial Account" (TBA)
+  - Exam Essay 1: "Individual Differences in Mental Health: A Multifactorial Account" (71)
   
-  - Exam Essay 2: "The Trainability of Creativity: Evaluation of Laboratory and Applied Setting Research" (TBA)
+  - Exam Essay 2: "The Trainability of Creativity: Evaluation of Laboratory and Applied Setting Research" (68)
 
-- **Language and Communication**
+- **Language and Communication (78)**
 
   - Narrated Poster: "Do Fake News Have Distinguishables Features?" Evidence from Emotional Valence and Writing Style & Machine Learning Detection Approaches (High 1.1, 78)
  
