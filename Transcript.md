@@ -9,49 +9,49 @@ permalink: /Transcript/
 Below is a summary of all the graded coursework and exams I have completed during my MSci degree at UCL.
 
 ---
-## 2022/23: Fourth Year - Master's Level (TBA)
+## 2022/23: Fourth Year - Master's Level
 
 Planning to take the Research Pathway
-**MSci Thesis**: TBA
+**MSci Research Thesis**: Neural Reorganisation and Crossmodal Plasticity (TBA)
 
-- **module 1**
+- **Advanced Statistics with R (TBA)**
 
-- **module 2**
+- **The Brain in Action (TBA)**
 
-- **module 3**
+- **Neuroscience of Mental Health (TBA)**
 
-- **module 4**
+- **Deafness, Cognition & Language (TBA)**
 
 ---
 ## 2021/22: Third Year
 
 **BSc Thesis**: "Influence of Instrumentality, Valence and Receiver's Uncertainty on Information Sharing" (supervisor: Prof Tali Sharot, Valentina Vellani)
 
-- **Neural Computation: Models of Brain Function**
+- **Neural Computation: Models of Brain Function (74.90)**
 
-  - Final Exam 3h (95% weight): (TBA)  
+  - Final Exam 3h (95% weight): (75)  
 
   - Coursework Essay (5% weight): Critique of Frean (1990): The Upstart Algorithm (74) 
 
-- **Cognitive Neuroscience**
+- **Cognitive Neuroscience (65)**
 
-  - Research Poster (100% weight): "Do Individuals with ASD exhibit impairments in prospective memory?" (TBA)
+  - Research Poster (100% weight): "Do Individuals with ASD exhibit impairments in prospective memory?" (65)
 
-- **Topics in Neurobiology**
+- **Topics in Neurobiology (77)**
 
-  - Coursework Essay + Questions (100% weight): paper = (TBA)
+  - Coursework Essay + Questions (100% weight): paper = (77)
 
-- **Introduction to Deep Learning for Speech and Language Sciences**
+- **Introduction to Deep Learning for Speech and Language Processing (75)**
 
-  - Deep Learning Jupyter Notebook on a Speech Task (100% weight): (TBA)
+  - Essay on a Speech DL Task (100% weight): "Two Approaches to Speaker Identification: A Comparison of Methods and Outcomes (75)
 
-- **Brain Stimulation**
+- **Brain Stimulation (70)**
 
-  - Lab Report of a Novel Brain Stimulation Study (100% weight): (TBA)
+  - Lab Report Proposing a Novel Brain Stimulation Study (100% weight): "Causal Role of the Lip M1 Area in Learning To Perceive New L2 Sounds" (70)
 
-- **Language and Communication in Dementia**
+- **Language and Communication in Dementia (81.25)**
 
-  - Coursework Essay (75% weight): "Analysis of Language Samples from a Dementia Patient (1.1, 75)
+  - Coursework Essay (75% weight): "Analysis of Language Samples from a Dementia Patient (75)
   
   - 1h long MCQ (25% weight): 100
  
