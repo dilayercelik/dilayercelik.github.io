@@ -77,19 +77,19 @@ Completion of 2 (3-month long) Nanodegrees:
 - Left to focus on studies/exams + because of the project's next stage being business-level (and my current focus being on *learning* NLP for now!)
 
 
-**Research Mentee/Intern in Natural Language Processing (Nov 2020 -)**
+**Research Mentee/Intern in Natural Language Processing (Nov 2020 - May 2021)**
 
 - Project: "Developing a Segmentation Pipeline to Characterise and Quantify Radiomic Features of NSCLC CT Scans"
 
 - Mentor: Zihao Fang, UCL PhD Candidate in Biomedical Engineering
 
 
-**Undergraduate Research Assistant in the LangCogLab at UCL (Sept 2020 -)**
+**Undergraduate Research Assistant in the LangCogLab at UCL (Sept 2020 - August 2021)**
 
 - at the UCL Language & Cognition Lab (Faculty of Brain Sciences, Dept of Experimental Psychology)
 
 
-**Media Officer of the UCL Neuroscience Society (March 2020 -)**
+**Media Officer of the UCL Neuroscience Society (March 2020 - March 2021)**
 
 - Responsible for managing:
   - the UCL NeuroSoc Facebook Page(>5k likes, 5.4k followers)
