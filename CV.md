@@ -15,7 +15,7 @@ MSci (Hons) - Master in Science, Psychology and Language Sciences
 
 - *GRADE: Predicted First*
 - Year 4: Research Pathway
-- Some modules: Neural Computational, Topics in Neurobiology, Cognitive Neuroscience, Calculus & Linear Algebra, Intermediate Statistical Methods, Introduction to Deep Learning for Speech Processing, Brain Stimulation...
+- Some modules: Neural Computational, Topics in Neurobiology, Cognitive Neuroscience, Calculus & Linear Algebra, Intermediate Statistical Methods, Introduction to Deep Learning for Speech and Language Processing, Brain Stimulation...
 
 **Lycee Charles Peguy Paris 11 (High School, 2016-2019)**
 
