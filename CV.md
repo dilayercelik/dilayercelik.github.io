@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
-Details can be found on my [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/).
+More details can be found on my [LinkedIn](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/), including my full transcript to date.
 
 ---
 # Education
