@@ -32,9 +32,26 @@ Completion of 2 (3-month long) Nanodegrees:
 ---
 # Experience
 
-**\INCOMING/ MSci Research Intern in Neural Plasticity and Crossmodal Reorganisation at UCL (from Sept 2022)**
+**SCGB Research Fellow in Computational Neuroscience at Simons Foundation (from Sept 2022)**
 
-**\INCOMING/ SDE Intern at Amazon (July-Sept 2022)**
+- Awarded a fellowship grant to work on a supervised research project starting in Term 1 of 2022-2023.
+- Supervisor: Dr Brendan Bicknell (Gatsby Unit & Häusser Lab)
+- Project:
+- Skills:
+
+
+**MSci Research Intern in Neural Plasticity and Crossmodal Reorganisation at UCL (from Sept 2022)**
+
+- MSci laboratory thesis research: 
+- Supervisor:
+- Skills:
+
+
+**SDE Intern at Amazon (July-Sept 2022)**
+
+- Joined the Selection Contribution Platform (SCP) organisation for 3 months in London.
+- Skills: Java, Unit Testing, Load Testing, Technical Writing, AWS SQS, AWS S3
+
 
 **Research Placement in AI Engineering Research at Imagination Technologies (July-Sept 2021)**
 
@@ -42,11 +59,11 @@ Completion of 2 (3-month long) Nanodegrees:
 - Research Project: Biological Neural Networks for Artificial Neural Networks 
 
 
-**Research Intern in the Affective Brain Lab at UCL (May-June-... 2021)**
+**Research Intern & BSc Thesis Student in the Affective Brain Lab at UCL (May 2021 - April 2022)**
 
-- under the supervision of PhD candidate Valentina Vellani
-
-- Project: Online study on information sharing and seeking, depending on information instrumentality, uncertainty and valence
+- BSc Thesis: "Information Sharing: Influence of News Instrumentality, Valence and Uncertainty" (Grade: 82; 9,986 words)
+- Supervisors: Prof Tali Sharot (Professor of Cognitive Neuroscience, UCL-MIT), Valentina Vellani (PhD candidate)
+- Assisting in other projects of PhD candidate Valentina Vellani (see LinkedIn for more info)
 
 
 **Spring Tech Insight Intern at Amazon (April 2021)**
@@ -79,7 +96,7 @@ Completion of 2 (3-month long) Nanodegrees:
 
 ---
 # Skills
-- **computational/programming**: Python, R, MATLAB (basic), Deep Learning Frameworks (PyTorch, Keras, scikit-learn, Tensorflow 1), SQL (basic), Git (Basic), speech science software (PRAAT, ELAN and others), MS Office, AWS
+- **computational/programming**: Python, R, Java, MATLAB (basic), Deep Learning Frameworks (PyTorch, Keras, scikit-learn, Tensorflow 1), SQL (basic), Git (Basic), speech science software (PRAAT, ELAN and others), MS Office, exposure to AWS
 
 - **languages**: French (Native), English (Fluent), Turkish (Native), German (Intermediate Writing), Latin (Basic Writing)
 
@@ -88,13 +105,15 @@ Completion of 2 (3-month long) Nanodegrees:
 
 - UCL Faculty Undergraduate Scholarship for Excellence (£3,000) (2021)
 
+- Nomination for the BPS Cognitive Psychology Undergraduate Project Prize (2022)
+
 - Jackson Lewis Scholarship Award for Best 2nd Year Student in the Faculty (£200) (2021)
 
-- Dean's List for Year 2 (2021)
+- Dean's List for Year 2 (2021) & Year 3 (2022)
 
 - Academic Excellence Scholarship from VUAmsterdam for their summer term (800euros) (2021)
 
-- Student Achievement Prize (£50) for overall performance in my first year (2019/20)
+- Student Achievement Prize for overall performance in my first year (2019/20; £50) and my third year (2021/22; £100)
 
 - Nominated by the Board of Examiners for the competitive UCL Faculty Undergraduate Scholarship for Excellence (2020)
 
