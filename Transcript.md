@@ -16,7 +16,7 @@ Below is a summary of all the graded coursework and exams I have completed durin
 
 ## 2022/23: Fourth Year (Research Pathway) - Master's Level
 
-**MSci Research Thesis**: Neural Reorganisation and Crossmodal Plasticity in the Deaf Auditory Cortex (TBA)
+- **MSci Research Thesis**: Neural Reorganisation and Crossmodal Plasticity in the Deaf Auditory Cortex (TBA)
   - MSci Thesis (80% weight): (TBA)
   - Research Proposal (10% weight): (74)
   - Blog Post for research dissemination (10% Weight): (TBA)
