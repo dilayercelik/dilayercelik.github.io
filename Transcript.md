@@ -4,23 +4,33 @@ title: Transcript
 permalink: /Transcript/
 ---
 
-## MSci (Honours) - Integrated Master of Science, Psychology and Language Sciences (2019-2023)
+
+## MSc (Honours) - Artificial Intelligence (2023-Sept2024) | (Final Classification TBA)
+
+Below is a summary of all the graded coursework and exams I have completed during my MSci degree at X.
+
+
+## MSci (Honours) - Integrated Master of Science, Psychology and Language Sciences (2019-June2023) | (Final Classification TBA)
 
 Below is a summary of all the graded coursework and exams I have completed during my MSci degree at UCL.
 
 ---
-## 2022/23: Fourth Year - Master's Level
+## 2022/23: Fourth Year (Research Pathway) - Master's Level
 
-Planning to take the Research Pathway
-**MSci Research Thesis**: Neural Reorganisation and Crossmodal Plasticity (TBA)
+**MSci Research Thesis**: Neural Reorganisation and Crossmodal Plasticity in the Deaf Auditory Cortex (TBA)
+  - MSci Thesis (80% weight): (TBA)
+  - Research Proposal (10% weight): (74)
+  - Blog Post for research dissemination (10% Weight): (TBA)
 
-- **Advanced Statistics with R (TBA)**
+- **Advanced Statistics with R (72)**
+  - Lab Report using Advanced Statistical Analyses (100% weight): (72)
 
 - **The Brain in Action (TBA)**
 
 - **Neuroscience of Mental Health (TBA)**
 
-- **Deafness, Cognition & Language (TBA)**
+- **Deafness, Cognition & Language (70)**
+  - Coursework Essay (100% weight): Plastic Reorganisation in Congenital Deafness: Insights from Experimental Studies (72)
 
 ---
 ## 2021/22: Third Year
