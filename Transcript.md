@@ -9,12 +9,11 @@ permalink: /Transcript/
 
 Below is a summary of all the graded coursework and exams I have completed during my MSci degree at X.
 
-
+---
 ## MSci (Honours) - Integrated Master of Science, Psychology and Language Sciences (2019-June2023) | (Final Classification TBA)
 
 Below is a summary of all the graded coursework and exams I have completed during my MSci degree at UCL.
 
----
 ## 2022/23: Fourth Year (Research Pathway) - Master's Level
 
 **MSci Research Thesis**: Neural Reorganisation and Crossmodal Plasticity in the Deaf Auditory Cortex (TBA)
