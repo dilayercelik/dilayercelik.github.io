@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Localisation of Different Functions in the Brain
+title: (Year 1 Coursework - 2019) The Localisation of Different Functions in the Brain
 ---
 
 *I have written this 1000-word practice essay in my 'Neural Basis of Perception, Memory and Language' module in my first-year of undergraduate studies, for which I received a High 1.1 (87).*
