@@ -10,6 +10,8 @@ permalink: /about/
  
   - I moved to the UK in late 2019 for my undergraduate studies; I went to UCL (2019-2023), then Imperial (2023-2024), before landing in Oxford in October 2024). I am originally from France, where I obtained my French Scientific Baccalaurate (2019).
 
+  - In my free time, I like writing; I mostly write short-form prose, and sometimes poetry. Nothing out in the world too publicly at the moment!
+
 ---
 ### Location
   - Current: Oxford, UK
