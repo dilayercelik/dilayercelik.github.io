@@ -4,4 +4,5 @@ title: (Poster) Uncertainty calibrates behavioural and neural adaptation to cate
 ---
 
 Poster presented by Klara Hatinova at the Future of Psyhciatry meeting (July 2026, Oxford)
+
 Contributors: Klara Hatinova, Rohan Rao, Dilay Ercelik, Evie Ward, Abhishek Banerjee
