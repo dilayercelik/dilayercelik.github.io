@@ -18,4 +18,5 @@ permalink: /about/
 
 ### Contact me
   - [dilay.ercelik@queens.ox.ac.uk](mailto:dilay.ercelik@queens.ox.ac.uk)
-  - I'm also active on LinkedIn, so feel free to reach out to me from there.
+  - [dilay.ercelik@gmail.com](mailto:dilay.ercelik@gmail.com)
+  - I'm not really active on LinkedIn at the moment, so emailing is probably the way!
