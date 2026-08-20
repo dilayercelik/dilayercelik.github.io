@@ -9,11 +9,25 @@ More details can be found on my [LinkedIn](https://www.linkedin.com/in/dilay-fid
 ---
 # Education
 
+**University of Oxford (2024-current/2029)**
+
+MSc (2024-2025) year in Neuroscience with 2 research rotations, based at Keble College
+
+DPhil/PhD in (computational) neuroscience in the Department of Pharmacology
+Supervision: Adaptive Decisions Lab (Prof Abhishek Banerjee)
+Full PhD funding by Clarendon through the Medical Sciences Division and The Queen's College
+
+**Imperial College London (2023-2024)**
+
+MSc in Artificial Intelligence in the Department of Computing
+- *GRADE: First*
+- modules: Introduction to Machine Learning, Deep Learning, Reinforcement Learning, Computational Neurodynamics, Deep Graph-Based Learning, Ethics Fairness and Explanation in AI, Introduction to Symbolic Artificial Intelligence, MSc AI Software Engineering Group Project, Mathematics for Machine Learning, Python Programming
+
 **University College London (2019-2023)**
 
 MSci (Hons) - Master in Science, Psychology and Language Sciences
 
-- *GRADE: Predicted First*
+- *GRADE: First*
 - Year 4: Research Pathway
 - Some modules: Neural Computational, Topics in Neurobiology, Cognitive Neuroscience, Calculus & Linear Algebra, Intermediate Statistical Methods, Introduction to Deep Learning for Speech and Language Processing, Brain Stimulation...
 
@@ -23,22 +37,26 @@ French Scientific Baccalaureate, with Further Maths (Bac S Spe Maths)
 
 - *GRADE: 19.31/20*
 
-**Udacity (2020)**
-
-Completion of 2 (3-month long) Nanodegrees:
-
-- Machine Learning Engineer (July-Sept 2020)
-- AI Programming with Python (April-June 2020)
-
 ---
 # Experience
 
-**SCGB Research Fellow in Computational Neuroscience at Simons Foundation (from Sept 2022)**
+**PhD student in computational neuroscience at the University of Oxford (Oct 2025 - current)**
 
-- Awarded a fellowship grant to work on a supervised research project starting in Term 1 of 2022-2023.
+
+**MSc Research Rotation Student in the Cragg Group at Oxford (May 2025 - August 2025)**
+- fast-scan cyclic voltammetry (FCV), voltage sensor, dopamine neurotransmission in striatum
+
+
+**MSc Research Rotation Student in the Adaptive Decisions Lab at Oxford (Jan 2025 - April 2025)**
+- Presented a poster at the 14th Oxford Neuroscience Symposium: "Fast and slow sensory cortical dynamics during reversal learning".
+
+
+**SCGB Research Fellow in Computational Neuroscience at Simons Foundation (Sept 2022-Sept 2023)**
+
+- Awarded an undergraduate researcher fellowship grant to work on a supervised research project in the Gatsby Unit (UCL)
+- Presented a poster in the SURF Research Symposium (April 17, 2023) in NYC
 - Supervisor: Dr Brendan Bicknell (Gatsby Unit & Häusser Lab)
-- Project:
-- Skills:
+- Project: Dendritic computations in spiking neural networks for sound localisation
 
 
 **MSci Research Intern in Neural Plasticity and Crossmodal Reorganisation at UCL (from Sept 2022)**
@@ -104,6 +122,16 @@ Completion of 2 (3-month long) Nanodegrees:
 ---
 # Academic Awards 
 
+- (PhD funding) Clarendon Fund Scholarship through the Medical Sciences Graduate School Studentship (2024-2029). The PhD studentship covers course fees in full, and a grant for living expenses totalling £20,780 per year for the duration of the fee liability, normally 3.5 years (Oct 2025 - March 2029)
+
+- Study Grant for the Trinity term of 2025 awarded by the Keble Association (associated with Keble College) for attendance at the UK Neural Computation conference (10-11 July 2025) hosted by Imperial College London (£314) (July 2025)
+
+- FKNE Scientific Exchange to ENS (Paris, 10-12 Feb 2025)
+
+- James Martin Graduate Scholarship for tuition fees at Keble College (£9,000) (2024)
+
+- The Corporate Partnership Programme MSc Group Project Prize for our MSc AI group project (£50) (2024)
+
 - UCL Faculty Undergraduate Scholarship for Excellence (£3,000) (2021)
 
 - Nomination for the BPS Cognitive Psychology Undergraduate Project Prize (2022)
@@ -118,10 +146,3 @@ Completion of 2 (3-month long) Nanodegrees:
 
 - Nominated by the Board of Examiners for the competitive UCL Faculty Undergraduate Scholarship for Excellence (2020)
 
-
----
-# Extracurricular
-
-- UCL Neuroscience Society, UCL Artificial Intelligence Society, UCL Francophone Society...
-- German Evening Classes (B2) at the Centre for Languages and International Education (UCL) for the spring term 2020
-- Participated in the Global Citizenship Programme (Outbreak Strand) 
