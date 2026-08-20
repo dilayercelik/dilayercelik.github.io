@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Introduction
 
-  - Hi, I'm Dilay! I'm currently a first year PhD student in the [Adaptive Decisions](https://www.adaptive-decisions.com) Lab led by Prof Abhishek Banerjee at the University of Oxford. 
+  - Hi, I'm Dilay! I'm currently a first year PhD student in the [Adaptive Decisions](https://www.adaptive-decisions.com) Lab led by Prof Abhishek Banerjee at the University of Oxford as a Clarendon Scholar. 
  
   - I moved to the UK in late 2019 for my undergraduate studies; I went to UCL (2019-2023), then Imperial (2023-2024), before landing in Oxford in October 2024). I am originally from France, where I obtained my French Scientific Baccalaurate (2019).
 
@@ -19,6 +19,7 @@ permalink: /about/
 ---
 ### Location
   - Current: Oxford, UK
+  - Affiliation: The Queen's College and the Department of Pharmacology, Oxford
 
 ### Contact me
   - [dilay.ercelik@queens.ox.ac.uk](mailto:dilay.ercelik@queens.ox.ac.uk)
