@@ -14,8 +14,8 @@ More details can be found on my [LinkedIn](https://www.linkedin.com/in/dilay-fid
 MSc (2024-2025) year in Neuroscience with 2 research rotations, based at Keble College
 
 DPhil/PhD in (computational) neuroscience in the Department of Pharmacology
-Supervision: Adaptive Decisions Lab (Prof Abhishek Banerjee)
-Full PhD funding by Clarendon through the Medical Sciences Division and The Queen's College
+- Supervision: Adaptive Decisions Lab (Prof Abhishek Banerjee)
+- Full PhD funding by Clarendon through the Medical Sciences Division and The Queen's College
 
 **Imperial College London (2023-2024)**
 
