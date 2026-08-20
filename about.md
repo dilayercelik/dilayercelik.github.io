@@ -12,6 +12,10 @@ permalink: /about/
 
   - In my free time, I like writing; I mostly write short-form prose, and sometimes poetry. Nothing out in the world too publicly at the moment!
 
+### PhD Introduction
+
+  - Currently shaping it as we go! I'm interested in how neural circuits support adaptive decision-making. My work combines behavioural analysis, neural data processing, and computational modelling to understand how patterns of brain activity relate to learning, action selection, and changes in behaviour over time. I develop reproducible analysis pipelines for mouse behavioural and neural datasets, and use models that take behaviour as structured input, including trial-resolution task histories, to predict future choices and link population-level neural activity to task structure and behavioural strategy. More broadly, I am interested in using computational approaches to bridge experimental neuroscience, cognition, and intelligent behaviour.
+
 ---
 ### Location
   - Current: Oxford, UK
