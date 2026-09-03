@@ -20,8 +20,8 @@ More broadly, I am interested in using computational approaches to bridge experi
 
 ## 🌝 Location
 
-Current: Oxford, UK  
-Affiliation: The Queen's College and the Department of Pharmacology, Oxford
+_Current:_ Oxford, UK  
+_Affiliation:_ The Queen's College and the Department of Pharmacology, Oxford
 
 ## 🌝 Contact me
 
