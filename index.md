@@ -4,9 +4,9 @@ title: 🌛 About Me
 permalink: /
 ---
 
-Hi, I'm Dilay! I'm currently a first-year PhD student in the [Adaptive Decisions](https://www.adaptive-decisions.com) Lab led by Prof Abhishek Banerjee at the University of Oxford as a Clarendon Scholar.
+Hi, I'm Dilay! I'm currently a first-year PhD student in the [**Adaptive Decisions**](https://www.adaptive-decisions.com) **Lab** led by Prof Abhishek Banerjee at the **University of Oxford** as a [**Clarendon Scholar**](https://www.clarendonscholarsassociation.co.uk).
 
-I moved to the UK in late 2019 for my undergraduate studies; I went to UCL for psychology and language sciences (2019-2023), then Imperial for AI (2023-2024), before landing in Oxford in September 2024. I first joined Keble College in September 2024 for my MSc in Neuroscience, and then joined The Queen's College a year later to take up a PhD funding position. I am French with Turkish heritage; I obtained my French Scientific Baccalaureate in Paris in 2019.
+I moved to the UK in late 2019 for my undergraduate studies; I went to **UCL** for psychology and language sciences (2019-2023), then **Imperial** for AI (2023-2024), before landing in Oxford in September 2024. I first joined **Keble College** in September 2024 for my MSc in Neuroscience, and then joined **The Queen's College** a year later to take up a PhD funding position. I am French with Turkish heritage; I obtained my French Scientific Baccalaureate in Paris in 2019.
 
 In my free time, I like writing; I mostly write short-form prose, and sometimes poetry. Nothing out in the world _too_ publicly at the moment!
 
